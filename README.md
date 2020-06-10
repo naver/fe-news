@@ -7,11 +7,11 @@ FE News는 네이버 FE 엔지니어들이 엄선한 양질의 `FE 및 주요한
 
 발행소식은 [`/issues`](/issues) 폴더 내의 `yyyy-mm.md` 파일을 통해 확인할 수 있습니다.
 
-## :calendar: 발행주기
+## :triangular_flag_on_post: 발행주기
 
 매월 첫째주 수요일, 월 1회 발행
 
-## :triangular_flag_on_post: 최신소식
+## :mailbox_with_mail: 최신소식
 - [2020-06](/issues/2020-06.md)
 - [2020-05](/issues/2020-05.md)
 - [2020-04](/issues/2020-04.md)
