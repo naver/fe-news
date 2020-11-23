@@ -1,3 +1,5 @@
+<img src="./org/assets/NAVERFE_basic_black.png"><br><br>
+
 # 네이버 Front-end 조직 소개
 
 네이버는 사람들의 다양한 이야기와 데이터를 다룹니다.
