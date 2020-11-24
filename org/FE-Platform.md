@@ -67,5 +67,6 @@
 - 최신 기술 경험 (React/Angular/Vue.js) - 브라우저 동작 이해
 
 ## URL
+- https://github.com/naver/egjs
 - https://medium.com/naver-fe-platform
 - https://github.com/NAVER-FEPlatform/FEDevtalk
