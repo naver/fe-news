@@ -10,13 +10,13 @@ Platform Labs는 네이버를 위한 Platform 들을 개발하고
 
 ### Pinpoint
 
-<img src=./assets/pinpoint.svg width="350" alt="Pinpoint">
+<img src=./assets/platformlabs/pinpoint.svg width="350" alt="Pinpoint">
 
 - https://github.com/naver/pinpoint
 
 > [참고] [대규모 분산 시스템 추적 플랫폼, Pinpoint](https://d2.naver.com/helloworld/1194202)
 
-<img src="./assets/pinpoint01.png" width="500">
+<img src="./assets/platformlabs/pinpoint01.png" width="500">
 
 
 ### billboard.js
