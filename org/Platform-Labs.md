@@ -29,11 +29,11 @@ Platform Labs는 네이버를 위한 Platform 들을 개발하고
 <img src="https://naver.github.io/billboard.js/img/chart-types.png?v=6" width="500">
 
 ## Plasma FE
-네이버 페이의 새로운 아키텍처를 구현하는 'Plasma 프로젝트'를 진행하고 있습니다.
+네이버 페이의 새로운 아키텍처를 구현하는 'Plasma 프로젝트'를 담당하고 있습니다.
 
 - https://pay.naver.com/
 
-네이버페이의 폭발적인 사업 성장을 뒷받침하는 안정되고 확장 가능한 플랫폼을 구축하는 목표를 갖고 있습니다.
+네이버 페이의 폭발적인 사업 성장을 뒷받침하는 안정되고 확장 가능한 플랫폼을 구축하는 목표를 갖고 있습니다.
 기존의 monolithic하게 구현되어 있는 시스템을 작은 단위의 프로젝트로 재구성하고,
 이를 재사용 가능한 최신 FE 기술 스택으로 안정적으로 교체하는 작업을 진행하고 있습니다.
 
@@ -44,6 +44,7 @@ Platform Labs는 네이버를 위한 Platform 들을 개발하고
 - Backend: Node.js + Express + Apollo GraphQL
 - Bundler: Webpack, Rollup.js
 - State management: Redux, Recoil
+- Test: Mocha + Chai, Karma
 
 ### Plasma FE
 - Framework: React
@@ -61,3 +62,4 @@ Platform Labs에서는 다음과 같은 다양한 Front-end 기술 공유 활동
   - [2020년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8257914)
 - FE News: 월간 FE 기술뉴스 레터
   - https://github.com/naver/fe-news
+  
