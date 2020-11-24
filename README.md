@@ -1,25 +1,45 @@
-# :newspaper: FE News
+<img src="./org/assets/NAVERFE_basic_black.png" width=700><br><br>
+# 네이버 Front-end 소개
 
-FE News는 네이버 FE 엔지니어들이 엄선한 양질의 `FE 및 주요한 기술 소식`들을 큐레이션해 공유하는 것을 목표로 합니다.
-이를통해 국내 개발자들에게 지식 공유에 대한 가치 인식과 성장에 도움을 주고자 합니다. :grin:
+네이버는 사람들의 다양한 이야기와 데이터를 다룹니다.
 
-## :triangular_flag_on_post: 발행소식
+사람들은 네이버에서 어제 본 드라마로 수다 떨고,
+세금 문제를 물어보고, 내일 여행할 곳의 맛있는 식당을 찾으며,
+바뀔 계절에 대비해서 옷을 고르기도 합니다.
 
-발행소식은 [`/issues`](/issues) 폴더 내의 `yyyy-mm.md` 파일을 통해 확인할 수 있습니다.
+네이버의 Front-end 개발자는 네이버가 다루는
+큰 규모의 데이터를 웹 기술을 사용해서 사용자에게 전달합니다.
 
-## :calendar: 발행주기
+시스템에 대한 지식을 바탕으로 사용자가 편리하고 효율적으로
+정보를 소비하는 방식을 고민합니다.
 
-매월 첫째주 수요일, 월 1회 발행
+## 홍보 영상 및 자료
+네이버 Front-end가 어떻게 네이버 서비스의 경쟁력을 만들어 나가고 있는지,
+그리고 네이버 Front-end 개발자들은 어떻게 일하고 성장하고 있는지 궁금하신가요?
 
-## :mailbox_with_mail: 최신소식
+아래 영상과 자료를 통해 직접 확인해 보실 수 있습니다!
 
-- [2020-11](/issues/2020-11.md)
-- [2020-10](/issues/2020-10.md)
-- [2020-09](/issues/2020-09.md)
-- [2020-08](/issues/2020-08.md)
-- [2020-07](/issues/2020-07.md)
-- [2020-06](/issues/2020-06.md)
-- [2020-05](/issues/2020-05.md)
-- [2020-04](/issues/2020-04.md)
-- [2020-03](/issues/2020-03.md)
-- [2020-02](/issues/2020-02.md)
+- [네이버 Front-end 홍보 영상](https://tv.naver.com/v/16857998)
+- [네이버 Front-end 개발자 인터뷰 영상](https://tv.naver.com/v/16857931)
+- [네이버 FE 소개자료](https://deview.kr/data/deview/exhibition/%EB%84%A4%EC%9D%B4%EB%B2%84FE.pdf)
+
+## 조직 소개
+
+<img src="./org/assets/NAVERFE_square_black.png" width=100 align="right">
+
+- [Ad Service Dev2](/org/Ad-Service-Dev2.md)
+- [Apollo FE Dev](/org/Apollo-FE-Dev.md)
+- [FE Platform](/org/FE-Platform.md)
+- [Glace 플레이스서비스개발](/org/Glace-Place-Service-Dev.md)
+- [Platform Labs](/org/Platform-Labs.md)
+- [SmartEditor FE](/org/SmartEditor-FE.md)
+- [Whale WebUI](/org/Whale-WebUI.md)
+- [네이버 쇼핑 플랫폼](/org/Shopping-Platform.md)
+- [버티컬비즈서비스개발](/org/Vertical-Biz-Service-Dev.md)
+- [쇼핑박스개발](/org/Shopping-Box-Dev.md)
+
+## 오픈소스 프로젝트
+
+- [billboard.js](https://github.com/naver/billboard.js)
+- [egjs](https://github.com/naver/egjs)
+- [SmartEditor2](https://github.com/naver/smarteditor2)

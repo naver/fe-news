@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1"
+    x="0px" y="0px"
+    viewBox="0 0 6900 1100"
+    style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd">
+<g>
+    <g style="fill:#000;fill-rule:nonzero" id="svg_2">
+        <path class="fil3" d="M0,57 l316,0 c164,0 282,107 282,276 c0,170 -118,280 -282,280 l-226,0 l0,359 l-90,0 l0,-914 zm304,475 l0,0 c122,0 202,-74 202,-199 c0,-124 -79,-195 -200,-195 l-216,0 l0,394 l215,0 z" id="svg_3"/>
+        <polygon class="fil3" points="908,57 998,57 998,972 908,972 " id="svg_4"/>
+        <path class="fil3" d="M1393,57 l87,0 l467,658 c31,46 75,124 75,124 l3,0 c0,0 -8,-75 -8,-124 l0,-658 l90,0 l0,914 l-87,0 l-467,-658 c-31,-46 -75,-124 -75,-124 l-3,0 c0,0 8,75 8,124 l0,658 l-90,0 l0,-914 z" id="svg_5"/>
+        <path class="fil3" d="M2503,57 l316,0 c164,0 282,107 282,276 c0,170 -118,280 -282,280 l-226,0 l0,359 l-90,0 l0,-914 zm304,475 l0,0 c122,0 202,-74 202,-199 c0,-124 -79,-195 -200,-195 l-216,0 l0,394 l215,0 z" id="svg_6"/>
+        <polygon class="fil3" points="4613,57 4702,57 4702,972 4613,972 " id="svg_7"/>
+        <path class="fil3" d="M5098,57 l87,0 l467,658 c31,46 75,124 75,124 l3,0 c0,0 -8,-75 -8,-124 l0,-658 l90,0 l0,914 l-87,0 l-467,-658 c-31,-46 -75,-124 -75,-124 l-3,0 c0,0 8,75 8,124 l0,658 l-90,0 l0,-914 z" id="svg_8"/>
+        <polygon class="fil3" points="6413,138 6084,138 6084,57 6830,57 6830,138 6503,138 6503,972 6413,972 " id="svg_9"/>
+    </g>
+    <g style="fill:#1AAAF4;fill-rule:nonzero" id="svg_10">
+        <path class="fil4" d="M4231,519 c0,228 -185,414 -413,414 c-228,0 -413,-186 -413,-414 c0,-228 185,-413 413,-413 c228,0 413,185 413,413 zm-413,-519 l0,0 c-286,0 -519,233 -519,519 c0,286 233,519 519,519 c286,0 519,-233 519,-519 c0,-286 -233,-519 -519,-519 z" id="svg_11"/>
+        <path class="fil4" d="M3815,434 c-48,0 -87,39 -87,87 c0,48 39,87 87,87 c48,0 87,-39 87,-87 c0,-48 -39,-87 -87,-87 z" id="svg_12"/>
+    </g>
+ </g>
+ </svg>
