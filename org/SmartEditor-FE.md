@@ -20,7 +20,7 @@ SmartEditor 개발팀은 FE / BE / ANDROID / IOS 파트로 구성되어 있습�
 
 웹문서 편집과 관련한 다양한 특허를 보유하여 전문성을 갖추고 있습니다.
 
-![smarteditor-nscreen](./assets/smarteditor-nscreen.jpg)
+![smarteditor-nscreen](./assets/smarteditor/smarteditor-nscreen.jpg)
 
 ## 과거, 현재 그리고 미래
 
@@ -30,7 +30,7 @@ SmartEditor는 버전업을 거듭하면서 라이브러리(버전 1,2), 애플�
 - SmartEditor 3: 모바일과 PC에서 최적화된 SPA 에디터와 문서뷰어 라이브러리
 - SmartEditor ONE: 이전 버전의 모든 장점을 통합하고 쉬운 적용과 커스터마이징을 보완한 플랫폼 기반 에디터(에디터 SDK / 뷰어 SDK)
 
-![smarteditor-version](./assets/smarteditor-version.png)
+![smarteditor-version](./assets/smarteditor/smarteditor-version.png)
 
 더 나은 글쓰기 도구를 제공하고자 끊임없는 고민과 변화를 거듭하며 성장하고 있습니다.  
 그리고 또 새로운 도전을 진행 중 입니다.
