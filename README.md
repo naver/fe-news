@@ -37,3 +37,9 @@
 - [네이버 쇼핑 플랫폼](/org/Shopping-Platform.md)
 - [버티컬비즈서비스개발](/org/Vertical-Biz-Service-Dev.md)
 - [쇼핑박스개발](/org/Shopping-Box-Dev.md)
+
+## 오픈소스 프로젝트
+
+- [billboard.js](https://github.com/naver/billboard.js)
+- [egjs](https://github.com/naver/egjs)
+- [SmartEditor2](https://github.com/naver/smarteditor2)
