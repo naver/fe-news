@@ -33,16 +33,18 @@ UGC 서비스 개발과 운영 경험을 바탕으로 만들어진 고도화된 
 
 - Typescript
 - React
-- Redux / Graph QL
-- Node.js(SSR)
-- nginx, NCC (Kubernetes)
-- Sentry
+- Redux / Apollo Client
+- Node.js(SSR) / Graph QL
+- nginx, Helm, Docker, Kubernetes
+- Sentry, Grafana, Npot
 
 ## 기술 공유
 > Applo FE Dev에서는 FE 개발자들의 성장을 위해 다음과 같은 기술 공유 활동을 하고 있습니다.
 
-- [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
-- [어서 와, SSR은 처음이지? - 개발 편](https://d2.naver.com/helloworld/2177909)
+- [네피셜 - 사용자가 많은 서비스의 프론트엔드 개발자는 어디까지 ‘진화’해야 할까](https://m.blog.naver.com/naver_diary/222159387077)
+- [Deview2020 - 어서와, SSR은 처음이지? (네이버 블로그 Node.js 기반의 Server-Side Rendering 적용기)](https://deview.kr/2020/sessions/403)
+- [D2 - 어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
+- [D2 - 어서 와, SSR은 처음이지? - 개발 편](https://d2.naver.com/helloworld/2177909)
 - [TECH CONCERT: FRONT END 2020 - Code Review is Horse(코드리뷰는 말이야)(feat.Latte)](https://tv.naver.com/v/15355381)
 - [TECH CONCERT: FRONT END 2019 - 오늘부터 나도 FE 성능분석가](https://tv.naver.com/v/8129232)
 
