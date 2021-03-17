@@ -1,4 +1,4 @@
-# FE Platform
+# Search FE
 
 ### 글로벌 검색 서비스 FE의 품질관리를 하고 공통 모듈을 개발합니다.
 
@@ -6,7 +6,7 @@
 - 통합검색, 동영상 검색, VIEW 검색 등 컬렉션 영역과 공통 모듈을 개발하고 성능 개선 및 품질 관리를 담당하고 있습니다.
 
 
-| ![img](./assets/feplatform/feplatform-네이버-검색결과.png) | ![img](./assets/feplatform/feplatform-라인-검색결과.png) |
+| ![img](./assets/searchfe/feplatform-네이버-검색결과.png) | ![img](./assets/searchfe/feplatform-라인-검색결과.png) |
 | -- | -- |
 | 네이버 동영상 검색 | 라인 검색 |
 
@@ -16,7 +16,7 @@
 - 그린닷/통합검색으로부터 진입되는 인식&주제검색 서비스를 담당합니다.
 - 모바일 검색 사용자의 좀 더 나은 편의와 다양한 경험을 주고자 FE의 기술적인 고민과 시도를 합니다.
 
-| ![img](./assets/feplatform/feplatform-스마트렌즈.png) | ![img](./assets/feplatform/feplatform-스마트어라운드.png) |
+| ![img](./assets/searchfe/feplatform-스마트렌즈.png) | ![img](./assets/searchfe/feplatform-스마트어라운드.png) |
 | -- | -- |
 | 스마트 렌즈 | 스마트 어라운드 |
 
@@ -26,7 +26,7 @@
 - 검색 시 기대하는 정보를 보기 쉽고 편리하게 이용할 수 있도록 정제해서 인터랙티브하게 제공하거나 다양한 서비스와 연결해 줍니다.
 - 인물정보, 선거, 스포츠(월드컵, 올림픽) 등의 생활 속에서 접하는 대부분의 정보를 다룹니다.
 
-| ![img](./assets/feplatform/feplatform-컨검-테마별레시피.png) | ![img](./assets/feplatform/feplatform-컨검-영화단독형.png) |
+| ![img](./assets/searchfe/feplatform-컨검-테마별레시피.png) | ![img](./assets/searchfe/feplatform-컨검-영화단독형.png) |
 | -- | -- |
 | 네이버 검색 테마별레시피 | 네이버 검색 영화 단독형 |
 
@@ -37,7 +37,7 @@
 - 사용자에게 나은 경험을 줄 수 있는 기술 리서치를 통해 서비스의 가치를 높입니다.
 
 
-| ![img](./assets/feplatform/feplatform-ar.jpg) | ![img](./assets/feplatform/feplatform-리빙윈도.png) |
+| ![img](./assets/searchfe/feplatform-ar.jpg) | ![img](./assets/searchfe/feplatform-리빙윈도.png) |
 | -- | -- |
 | 지식백과(AR Viewer) | 리빙윈도(InfiniteGrid) |
 
