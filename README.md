@@ -29,7 +29,7 @@
 
 - [Ad Service Dev2](/org/Ad-Service-Dev2.md)
 - [Apollo FE Dev](/org/Apollo-FE-Dev.md)
-- [FE Platform](/org/FE-Platform.md)
+- [Search FE](/org/SEARCH-FE.md)
 - [Glace 플레이스서비스개발](/org/Glace-Place-Service-Dev.md)
 - [Platform Labs](/org/Platform-Labs.md)
 - [SmartEditor FE](/org/SmartEditor-FE.md)
