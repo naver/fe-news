@@ -66,7 +66,30 @@
 - Java/Node.js 등 server-side 개발 경험
 - 최신 기술 경험 (React/Angular/Vue.js) - 브라우저 동작 이해
 
-## URL
-- https://github.com/naver/egjs
-- https://medium.com/naver-fe-platform
-- https://github.com/NAVER-FEPlatform/FEDevtalk
+## 관련 자료
+
+### 발표
+- 16년 : deview
+    - [네이버의 모던 웹 라이브러리](https://deview.kr/2016/schedule#session/165)
+- 17년 : deview
+    - [밑바닥부터 시작하는 360 뷰어](https://deview.kr/2017/schedule/204)
+- 19년 : deview
+    - [React, Angular, Vue를 한 번에 지원하기 위한 설계 (Cross Framework Component)](https://deview.kr/2019/schedule/289)
+- 20년 : deview
+    - [WebXR API를 이용한 웹 AR 개발, 그 한계와 대안](https://deview.kr/2020/sessions/361)
+    - [성능개선 뛰어들기 (고전적 SSR 성능개선)](https://deview.kr/2020/sessions/346)
+    - [egjs 오픈 서커스 오신것을 환영합니다. (InfiniteGrid, Flicking 등 오픈소스를 활용한 아이폰 화면 구현)](https://deview.kr/2020/sessions/400)
+- 21년 : 네이버 검색 콜로키움
+    - [Front-end Engineering for Building an Immersive Experience in Search](http://naversearchconf.naver.com/)
+
+### 기사
+- 17년
+    - [[데뷰2017] 네이버, 밑바닥부터 시작한 ‘360도 뷰어’ 어떻게 개발했나](http://m.ddaily.co.kr/m/m_article/?no=161212)
+- 21년
+    - [웹에서 뛰노는 실감콘텐츠 ‘웹XR’의 개선점과 한계는?](https://n.news.naver.com/mnews/article/138/0002102997?sid=001)
+    - [[네이버 어벤저스] 네이버 안에서 3D 세계여행을?…‘웹 XR’이 온다](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=138&aid=0002103040)
+
+### 링크
+- [egjs 오픈소스](http://naver.github.io/egjs/)
+- [기술 블로그](https://medium.com/naver-fe-platform)
+- [기술 행사](https://github.com/NAVER-FEPlatform/FEDevtalk)
