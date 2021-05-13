@@ -60,7 +60,7 @@
 ### 우대 사항
 - 오픈 소스 컨트리뷰션 및 활동
 - 기술 기반 블로그 및 커뮤니티 활동
-- Node.js 등 server-side 개발 경험 
+- Node.js 등 server-side 개발 경험
 - docker/k8s등 cloud 환경 개발 경험
 - 최신 기술 경험 (React/Angular/Vue.js) 
 - 브라우저 동작 이해
