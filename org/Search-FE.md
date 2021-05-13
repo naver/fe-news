@@ -100,3 +100,7 @@
 - [egjs 오픈소스](http://naver.github.io/egjs/)
 - [기술 블로그](https://medium.com/naver-fe-platform)
 - [기술 행사](https://github.com/NAVER-FEPlatform/FEDevtalk)
+
+
+> 우리 팀에 관심이 생기셨나요? 언제나 같이 고민하고 해결할 팀원분들을 찾고 있습니다.
+> 관심있으시면 `dl_search_fe_hiring@navercorp.com`으로 연락주시면 하루안에 답변드리겠습니다.
