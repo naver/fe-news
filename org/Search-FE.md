@@ -47,24 +47,31 @@
 
 - 글로벌(네이버/라인) 검색 서비스 / 스마트 서비스 FE 개발
 - 네이버 서비스 설계 트러블 슈팅, 성능 분석, 코드 리뷰 등 기술 지원
-- egjs 오픈소스 라이브러리 개발
+- innersource 개발
+- egjs opensource 라이브러리 개발
 
 ### 필요 역량
 - FE 개발 경험
 - Webpack / Babel
 - ES 5+ / Typescript
-- HTML 4+ / CSS 2.1+ - Git
+- HTML 4+ / CSS 2.1+ 
+- Git
 
 ### 우대 사항
 - 오픈 소스 컨트리뷰션 및 활동
 - 기술 기반 블로그 및 커뮤니티 활동
-- Java/Node.js 등 server-side 개발 경험 - 최신 기술 경험 (React/Angular/Vue.js) - 브라우저 동작 이해
+- Node.js 등 server-side 개발 경험 
+- docker/k8s등 cloud 환경 개발 경험
+- 최신 기술 경험 (React/Angular/Vue.js) 
+- 브라우저 동작 이해
 
 ### 채용하고 싶은 사람
-- 오픈 소스 컨트리뷰션 및 활동
-- 기술 기반 블로그 및 커뮤니티 활동
-- Java/Node.js 등 server-side 개발 경험
-- 최신 기술 경험 (React/Angular/Vue.js) - 브라우저 동작 이해
+- Front-End에 관심 있는 개발자
+- 자신의 경험을 잘 나눌 수 있는 개발자
+- 새로운 업무나 기술을 배우는데 거리낌 없는 개발자
+- 동료와 협업하면서 업무를 함께 진행할 수 있는 개발자
+- 문제을 찾고 정의하여 해결하는 개발자
+- Self motivation이 가능한 개발자
 
 ## 관련 자료
 
