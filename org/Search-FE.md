@@ -43,8 +43,10 @@
 
 
 ## 채용
-### 역할
+> 우리 팀은 글로벌 검색서비스를 개발하며 효과적인 개발을 위해서 지속적으로 개발 환경을 고도화를 합니다. 하나의 기술보다 지속적으로 나은 기술을 찾고 서비스에 적용하여 성장하도록 노력합니다. 
+> 또한, 지금 당장 필요하지 않더라도 더 나은 단계로 나아가기 위한 미래 기술도 지속적으로 리서치하여 결과물을 만들고 있습니다. 우리의 활동을 아래 내용에서 확인하실 수 있고, 관심있으시면 연락 부탁합니다.
 
+### 역할
 - 글로벌(네이버/라인) 검색 서비스 / 스마트 서비스 FE 개발
 - 네이버 서비스 설계 트러블 슈팅, 성능 분석, 코드 리뷰 등 기술 지원
 - innersource 개발
@@ -95,6 +97,22 @@
 - 21년
     - [웹에서 뛰노는 실감콘텐츠 ‘웹XR’의 개선점과 한계는?](https://n.news.naver.com/mnews/article/138/0002102997?sid=001)
     - [[네이버 어벤저스] 네이버 안에서 3D 세계여행을?…‘웹 XR’이 온다](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=138&aid=0002103040)
+
+### 기술 공유
+- [AngularJS 도입 선택 가이드 공개합니다.](http://d2.naver.com/helloworld/1172239)
+- React [적용 가이드1](http://d2.naver.com/helloworld/9297403), [적용 가이드2](http://d2.naver.com/helloworld/1848131)
+- jQuery 애니메이션은 어떻게 작동하는가? [기본 편](http://d2.naver.com/helloworld/0265052), [심화 편](http://d2.naver.com/helloworld/4424601) , [응용 편](http://d2.naver.com/helloworld/9323973)
+- [jQuery는 이벤트를 어떻게 처리하는가?](http://d2.naver.com/helloworld/1855209)
+- [2016년과 이후 JavaScript의 동향](http://d2.naver.com/helloworld/3618177)
+- 2017년과 이후 JavaScript의 동향 [1](https://d2.naver.com/helloworld/2809766), [2](https://d2.naver.com/helloworld/7229119), [3](https://d2.naver.com/helloworld/0473039),
+- 2018년과 이후 JavaScript의 동향 [1](https://d2.naver.com/helloworld/7495331), [2](https://d2.naver.com/helloworld/3259111)
+- [하드웨어 가속에 대한 이해와 적용](http://d2.naver.com/helloworld/2061385)
+- [네이버 쇼핑의 새로운 카드형 UI 라이브러리, eg.InfiniteGrid](http://d2.naver.com/helloworld/4874130)
+- [사용자의 액션에 반응하는 UI 라이브러리, eg.Axes](https://d2.naver.com/helloworld/0590136)
+- [카드형 UI와 eg.InfiniteGrid 3.0](https://d2.naver.com/helloworld/0637045)
+- [User-Agent Client Hints의 도입, UA 프리징을 대비하라](https://d2.naver.com/helloworld/6532276)
+- [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안 - 이론 편](https://d2.naver.com/helloworld/0527763)
+- [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안 - 실전 편](https://d2.naver.com/helloworld/0189619)
 
 ### 링크
 - [egjs 오픈소스](http://naver.github.io/egjs/)
