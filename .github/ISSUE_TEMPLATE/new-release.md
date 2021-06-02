@@ -1,8 +1,8 @@
 ---
 name: 소식 발생
 about: 차기 소식 발행
-title: "202/월 뉴스레터 발행 "
-labels: ["help wanted", "소식발행"]
+title: "202/월 뉴스레터 발행"
+labels: help wanted, 소식발행
 assignees: ""
 
 ---
