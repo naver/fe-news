@@ -43,30 +43,82 @@
 
 
 ## 채용
-### 역할
+> 우리 팀은 글로벌 검색서비스를 개발하며 효과적인 개발을 위해서 지속적으로 개발 환경을 고도화를 합니다. 하나의 기술보다 지속적으로 나은 기술을 찾고 서비스에 적용하여 성장하도록 노력합니다. 
+> 또한, 지금 당장 필요하지 않더라도 더 나은 단계로 나아가기 위한 미래 기술도 지속적으로 리서치하여 결과물을 만들고 있습니다. 우리의 활동을 아래 내용에서 확인하실 수 있고, 관심있으시면 연락 부탁합니다.
 
+### 역할
 - 글로벌(네이버/라인) 검색 서비스 / 스마트 서비스 FE 개발
 - 네이버 서비스 설계 트러블 슈팅, 성능 분석, 코드 리뷰 등 기술 지원
-- egjs 오픈소스 라이브러리 개발
+- innersource 개발
+- egjs opensource 라이브러리 개발
 
 ### 필요 역량
 - FE 개발 경험
 - Webpack / Babel
 - ES 5+ / Typescript
-- HTML 4+ / CSS 2.1+ - Git
+- HTML 4+ / CSS 2.1+ 
+- Git
 
 ### 우대 사항
 - 오픈 소스 컨트리뷰션 및 활동
 - 기술 기반 블로그 및 커뮤니티 활동
-- Java/Node.js 등 server-side 개발 경험 - 최신 기술 경험 (React/Angular/Vue.js) - 브라우저 동작 이해
+- Node.js 등 server-side 개발 경험
+- docker/k8s등 cloud 환경 개발 경험
+- 최신 기술 경험 (React/Angular/Vue.js) 
+- 브라우저 동작 이해
 
 ### 채용하고 싶은 사람
-- 오픈 소스 컨트리뷰션 및 활동
-- 기술 기반 블로그 및 커뮤니티 활동
-- Java/Node.js 등 server-side 개발 경험
-- 최신 기술 경험 (React/Angular/Vue.js) - 브라우저 동작 이해
+- Front-End에 관심 있는 개발자
+- 자신의 경험을 잘 나눌 수 있는 개발자
+- 새로운 업무나 기술을 배우는데 거리낌 없는 개발자
+- 동료와 협업하면서 업무를 함께 진행할 수 있는 개발자
+- 문제을 찾고 정의하여 해결하는 개발자
+- Self motivation이 가능한 개발자
 
-## URL
-- https://github.com/naver/egjs
-- https://medium.com/naver-fe-platform
-- https://github.com/NAVER-FEPlatform/FEDevtalk
+## 관련 자료
+
+### 발표
+- 16년 : deview
+    - [네이버의 모던 웹 라이브러리](https://deview.kr/2016/schedule#session/165)
+- 17년 : deview
+    - [밑바닥부터 시작하는 360 뷰어](https://deview.kr/2017/schedule/204)
+- 19년 : deview
+    - [React, Angular, Vue를 한 번에 지원하기 위한 설계 (Cross Framework Component)](https://deview.kr/2019/schedule/289)
+- 20년 : deview
+    - [WebXR API를 이용한 웹 AR 개발, 그 한계와 대안](https://deview.kr/2020/sessions/361)
+    - [성능개선 뛰어들기 (고전적 SSR 성능개선)](https://deview.kr/2020/sessions/346)
+    - [egjs 오픈 서커스 오신것을 환영합니다. (InfiniteGrid, Flicking 등 오픈소스를 활용한 아이폰 화면 구현)](https://deview.kr/2020/sessions/400)
+- 21년 : 네이버 검색 콜로키움
+    - [Front-end Engineering for Building an Immersive Experience in Search](http://naversearchconf.naver.com/)
+
+### 기사
+- 17년
+    - [[데뷰2017] 네이버, 밑바닥부터 시작한 ‘360도 뷰어’ 어떻게 개발했나](http://m.ddaily.co.kr/m/m_article/?no=161212)
+- 21년
+    - [웹에서 뛰노는 실감콘텐츠 ‘웹XR’의 개선점과 한계는?](https://n.news.naver.com/mnews/article/138/0002102997?sid=001)
+    - [[네이버 어벤저스] 네이버 안에서 3D 세계여행을?…‘웹 XR’이 온다](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=138&aid=0002103040)
+
+### 기술 공유
+- [AngularJS 도입 선택 가이드 공개합니다.](http://d2.naver.com/helloworld/1172239)
+- React [적용 가이드1](http://d2.naver.com/helloworld/9297403), [적용 가이드2](http://d2.naver.com/helloworld/1848131)
+- jQuery 애니메이션은 어떻게 작동하는가? [기본 편](http://d2.naver.com/helloworld/0265052), [심화 편](http://d2.naver.com/helloworld/4424601) , [응용 편](http://d2.naver.com/helloworld/9323973)
+- [jQuery는 이벤트를 어떻게 처리하는가?](http://d2.naver.com/helloworld/1855209)
+- [2016년과 이후 JavaScript의 동향](http://d2.naver.com/helloworld/3618177)
+- 2017년과 이후 JavaScript의 동향 [1](https://d2.naver.com/helloworld/2809766), [2](https://d2.naver.com/helloworld/7229119), [3](https://d2.naver.com/helloworld/0473039),
+- 2018년과 이후 JavaScript의 동향 [1](https://d2.naver.com/helloworld/7495331), [2](https://d2.naver.com/helloworld/3259111)
+- [하드웨어 가속에 대한 이해와 적용](http://d2.naver.com/helloworld/2061385)
+- [네이버 쇼핑의 새로운 카드형 UI 라이브러리, eg.InfiniteGrid](http://d2.naver.com/helloworld/4874130)
+- [사용자의 액션에 반응하는 UI 라이브러리, eg.Axes](https://d2.naver.com/helloworld/0590136)
+- [카드형 UI와 eg.InfiniteGrid 3.0](https://d2.naver.com/helloworld/0637045)
+- [User-Agent Client Hints의 도입, UA 프리징을 대비하라](https://d2.naver.com/helloworld/6532276)
+- [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안 - 이론 편](https://d2.naver.com/helloworld/0527763)
+- [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안 - 실전 편](https://d2.naver.com/helloworld/0189619)
+
+### 링크
+- [egjs 오픈소스](http://naver.github.io/egjs/)
+- [기술 블로그](https://medium.com/naver-fe-platform)
+- [기술 행사](https://github.com/NAVER-FEPlatform/FEDevtalk)
+
+
+> 우리 팀에 관심이 생기셨나요? 언제나 같이 고민하고 해결할 팀원분들을 찾고 있습니다.
+> 관심있으시면 `dl_search_fe_hiring@navercorp.com`으로 연락주시면 하루안에 답변드리겠습니다.
