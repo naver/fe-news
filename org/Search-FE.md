@@ -1,5 +1,7 @@
 # Search FE
 
+> 팀 직무 안내 https://naver-career.gitbook.io/kr/service/search/reliability-platform/search-fe
+
 ### 글로벌 검색 서비스 FE의 품질관리를 하고 공통 모듈을 개발합니다.
 
 - 글로벌(네이버/라인) 검색 서비스 FE 공통 영역을 관리합니다.
@@ -90,6 +92,9 @@
     - [egjs 오픈 서커스 오신것을 환영합니다. (InfiniteGrid, Flicking 등 오픈소스를 활용한 아이폰 화면 구현)](https://deview.kr/2020/sessions/400)
 - 21년 : 네이버 검색 콜로키움
     - [Front-end Engineering for Building an Immersive Experience in Search](http://naversearchconf.naver.com/)
+- 21년 : deview
+    - [네이버 검색의 Server Driven UI - LAPIN](https://deview.kr/2021/sessions/454)
+    - [React, Vue, Svelte… 변화하는 프레임워크 속에서 컴포넌트 발전하기](https://deview.kr/2021/sessions/499)
 
 ### 기사
 - 17년
