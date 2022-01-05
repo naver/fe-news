@@ -34,6 +34,7 @@
 - [Glace 플레이스서비스개발](/org/Glace-Place-Service-Dev.md)
 - [Platform Labs](/org/Platform-Labs.md)
 - [SmartEditor FE](/org/SmartEditor-FE.md)
+- [HomeBuilder](/org/HomeBuilder.md)
 - [Whale WebUI](/org/Whale-WebUI.md)
 - [네이버 쇼핑 플랫폼](/org/Shopping-Platform.md)
 - [버티컬비즈서비스개발](/org/Vertical-Biz-Service-Dev.md)
