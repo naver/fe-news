@@ -93,7 +93,7 @@
         - [React, Vue, Svelte… 변화하는 프레임워크 속에서 컴포넌트 발전하기](https://deview.kr/2021/sessions/499)
 - **NAVER Search Colloquium**
     - 2021년 [Front-end Engineering for Building an Immersive Experience in Search](https://searchcolloquium.naver.com/2021/)
-    - 2022년 [Front-end Engineering for Rich Search Experience](http://naversearchconf.naver.com/)
+    - 2022년 [Front-end Engineering for Rich Search Experience](https://searchcolloquium.naver.com/)
 
 ### 기사
 - 17년
