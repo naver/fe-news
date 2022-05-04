@@ -80,21 +80,20 @@
 ## 관련 자료
 
 ### 발표
-- 16년 : deview
-    - [네이버의 모던 웹 라이브러리](https://deview.kr/2016/schedule#session/165)
-- 17년 : deview
-    - [밑바닥부터 시작하는 360 뷰어](https://deview.kr/2017/schedule/204)
-- 19년 : deview
-    - [React, Angular, Vue를 한 번에 지원하기 위한 설계 (Cross Framework Component)](https://deview.kr/2019/schedule/289)
-- 20년 : deview
-    - [WebXR API를 이용한 웹 AR 개발, 그 한계와 대안](https://deview.kr/2020/sessions/361)
-    - [성능개선 뛰어들기 (고전적 SSR 성능개선)](https://deview.kr/2020/sessions/346)
-    - [egjs 오픈 서커스 오신것을 환영합니다. (InfiniteGrid, Flicking 등 오픈소스를 활용한 아이폰 화면 구현)](https://deview.kr/2020/sessions/400)
-- 21년 : 네이버 검색 콜로키움
-    - [Front-end Engineering for Building an Immersive Experience in Search](http://naversearchconf.naver.com/)
-- 21년 : deview
-    - [네이버 검색의 Server Driven UI - LAPIN](https://deview.kr/2021/sessions/454)
-    - [React, Vue, Svelte… 변화하는 프레임워크 속에서 컴포넌트 발전하기](https://deview.kr/2021/sessions/499)
+- **deview**
+    - 2016년 [네이버의 모던 웹 라이브러리](https://deview.kr/2016/schedule#session/165)
+    - 2017년 [밑바닥부터 시작하는 360 뷰어](https://deview.kr/2017/schedule/204)
+    - 2019년 [React, Angular, Vue를 한 번에 지원하기 위한 설계 (Cross Framework Component)](https://deview.kr/2019/schedule/289)
+    - 2020년
+        - [WebXR API를 이용한 웹 AR 개발, 그 한계와 대안](https://deview.kr/2020/sessions/361)
+        - [성능개선 뛰어들기 (고전적 SSR 성능개선)](https://deview.kr/2020/sessions/346)
+        - [egjs 오픈 서커스 오신것을 환영합니다. (InfiniteGrid, Flicking 등 오픈소스를 활용한 아이폰 화면 구현)](https://deview.kr/2020/sessions/400)
+    - 2021년
+        - [네이버 검색의 Server Driven UI - LAPIN](https://deview.kr/2021/sessions/454)
+        - [React, Vue, Svelte… 변화하는 프레임워크 속에서 컴포넌트 발전하기](https://deview.kr/2021/sessions/499)
+- **NAVER Search Colloquium**
+    - 2021년 [Front-end Engineering for Building an Immersive Experience in Search](https://searchcolloquium.naver.com/2021/)
+    - 2022년 [Front-end Engineering for Rich Search Experience](https://searchcolloquium.naver.com/)
 
 ### 기사
 - 17년
