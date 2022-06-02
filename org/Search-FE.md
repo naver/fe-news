@@ -101,6 +101,9 @@
 - 21년
     - [웹에서 뛰노는 실감콘텐츠 ‘웹XR’의 개선점과 한계는?](https://n.news.naver.com/mnews/article/138/0002102997?sid=001)
     - [[네이버 어벤저스] 네이버 안에서 3D 세계여행을?…‘웹 XR’이 온다](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=138&aid=0002103040)
+- 22년
+    - [[네이버 어벤저스] “공룡이 궁금하면, 티라노사우루스에게 물어봐”](https://www.ddaily.co.kr/news/article/?no=238872)
+    - [[네이버 어벤저스] 찰떡같이 알아듣는 ‘검색의 진화’…구글보다 빠르다](https://www.ddaily.co.kr/news/article/?no=238971)
 
 ### 기술 공유
 - [AngularJS 도입 선택 가이드 공개합니다.](http://d2.naver.com/helloworld/1172239)
@@ -117,6 +120,7 @@
 - [User-Agent Client Hints의 도입, UA 프리징을 대비하라](https://d2.naver.com/helloworld/6532276)
 - [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안 - 이론 편](https://d2.naver.com/helloworld/0527763)
 - [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안 - 실전 편](https://d2.naver.com/helloworld/0189619)
+- [웹 3D 모델 최적화 기법 소개](https://d2.naver.com/helloworld/6152907)
 
 ### 링크
 - [egjs 오픈소스](http://naver.github.io/egjs/)
@@ -126,3 +130,4 @@
 
 > 우리 팀에 관심이 생기셨나요? 언제나 같이 고민하고 해결할 팀원분들을 찾고 있습니다.
 > 관심있으시면 `dl_search_fe_hiring@navercorp.com`으로 연락주시면 하루안에 답변드리겠습니다.
+    
