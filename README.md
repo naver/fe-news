@@ -1,4 +1,6 @@
-# 📰 FE News
+# FE News
+
+<img src="./assets/logo.svg" width="150" align="right" style="margin:0 0 0 20px">
 
 FE News는 네이버 FE 엔지니어들이 엄선한 양질의 `FE 및 주요한 기술 소식`들을 큐레이션 해 공유하는 것을 목표로 합니다.
 이를 통해 국내 개발자들에게 지식 공유에 대한 가치 인식과 성장에 도움을 주고자 합니다. :grin:
