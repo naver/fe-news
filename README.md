@@ -35,8 +35,8 @@ FE News는 네이버 FE 엔지니어들이 엄선한 양질의 `FE 및 주요한
 
 ### 2023
 
-- [2023-01](/issues/2023-01.md)
 - [2023-02](/issues/2023-02.md)
+- [2023-01](/issues/2023-01.md)
 
 <details>
   <summary>2022</summary>
