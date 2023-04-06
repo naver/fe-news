@@ -91,6 +91,8 @@
     - 2021년
         - [네이버 검색의 Server Driven UI - LAPIN](https://deview.kr/2021/sessions/454)
         - [React, Vue, Svelte… 변화하는 프레임워크 속에서 컴포넌트 발전하기](https://deview.kr/2021/sessions/499)
+    - 2023년
+        - [하나의 코드로 React, Vue, Svelte 등 모든 프레임워크를 지원할 수 있는 CFCs Reactive](https://deview.kr/2023/sessions/548)
 - **NAVER Search Colloquium**
     - 2021년 [Front-end Engineering for Building an Immersive Experience in Search](https://searchcolloquium.naver.com/2021/)
     - 2022년 [Front-end Engineering for Rich Search Experience](https://searchcolloquium.naver.com/)
