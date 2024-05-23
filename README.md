@@ -114,9 +114,9 @@ FE News는 네이버 FE 엔지니어들이 엄선한 양질의 `FE 및 주요한
 
 ## 🧑🏻‍💻 Team
 
-[![Jae Sung Park](https://avatars.githubusercontent.com/u/2178435?v=4)](https://github.com/netil) | [![BillionaireDY](https://avatars.githubusercontent.com/u/14918660?v=4)](https://github.com/BillionaireDY) | [![DonBum Ham](https://avatars.githubusercontent.com/u/5152681?v=4)](https://github.com/silveracy) | [![Inkyu Oh](https://avatars.githubusercontent.com/u/13645032?v=4)](https://github.com/gomjellie) | [![Yonggoo Noh](https://avatars.githubusercontent.com/u/13075245?v=4)](https://github.com/ygnoh) 
-:---:|:---:|:---:|:---:|:---:
-[Jae Sung Park](https://github.com/netil) | [BillionaireDY](https://github.com/BillionaireDY) | [DonBum Ham](https://github.com/silveracy) | [Inkyu Oh](https://github.com/gomjellie) | [Yonggoo Noh](https://github.com/ygnoh)
+[![Jae Sung Park](https://avatars.githubusercontent.com/u/2178435?v=4)](https://github.com/netil) | [![BillionaireDY](https://avatars.githubusercontent.com/u/14918660?v=4)](https://github.com/BillionaireDY) | [![DonBum Ham](https://avatars.githubusercontent.com/u/5152681?v=4)](https://github.com/silveracy) | [![Inkyu Oh](https://avatars.githubusercontent.com/u/13645032?v=4)](https://github.com/gomjellie) 
+:---:|:---:|:---:|:---:
+[Jae Sung Park](https://github.com/netil) | [BillionaireDY](https://github.com/BillionaireDY) | [DonBum Ham](https://github.com/silveracy) | [Inkyu Oh](https://github.com/gomjellie) 
 
 ## 😎 Contributors
 
