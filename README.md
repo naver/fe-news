@@ -36,7 +36,7 @@ FE News는 네이버 FE 엔지니어들이 엄선한 양질의 `FE 및 주요한
 > 이전 소식들은 '연도'를 클릭하면 보실 수 있습니다.
 
 ### 2024
-
+- [2024-05](/issues/2024-05.md)
 - [2024-04](/issues/2024-04.md)
 - [2024-03](/issues/2024-03.md)
 - [2024-02](/issues/2024-02.md)
@@ -109,3 +109,17 @@ FE News는 네이버 FE 엔지니어들이 엄선한 양질의 `FE 및 주요한
 - [2020-03](/issues/2020-03.md)
 - [2020-02](/issues/2020-02.md)
 </details>
+
+-----
+
+## 🧑🏻‍💻 Team
+
+[![Jae Sung Park](https://avatars.githubusercontent.com/u/2178435?v=4)](https://github.com/netil) | [![BillionaireDY](https://avatars.githubusercontent.com/u/14918660?v=4)](https://github.com/BillionaireDY) | [![DonBum Ham](https://avatars.githubusercontent.com/u/5152681?v=4)](https://github.com/silveracy) | [![Inkyu Oh](https://avatars.githubusercontent.com/u/13645032?v=4)](https://github.com/gomjellie) 
+:---:|:---:|:---:|:---:
+[Jae Sung Park](https://github.com/netil) | [BillionaireDY](https://github.com/BillionaireDY) | [DonBum Ham](https://github.com/silveracy) | [Inkyu Oh](https://github.com/gomjellie) 
+
+## 😎 Contributors
+
+<a href="https://github.com/naver/fe-news/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=naver/fe-news" />
+</a>
