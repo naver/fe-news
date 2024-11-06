@@ -80,34 +80,54 @@
 ## 관련 자료
 
 ### 발표
-- **deview**
-    - 2016년 [네이버의 모던 웹 라이브러리](https://deview.kr/2016/schedule#session/165)
-    - 2017년 [밑바닥부터 시작하는 360 뷰어](https://deview.kr/2017/schedule/204)
-    - 2019년 [React, Angular, Vue를 한 번에 지원하기 위한 설계 (Cross Framework Component)](https://deview.kr/2019/schedule/289)
-    - 2020년
-        - [WebXR API를 이용한 웹 AR 개발, 그 한계와 대안](https://deview.kr/2020/sessions/361)
-        - [성능개선 뛰어들기 (고전적 SSR 성능개선)](https://deview.kr/2020/sessions/346)
-        - [egjs 오픈 서커스 오신것을 환영합니다. (InfiniteGrid, Flicking 등 오픈소스를 활용한 아이폰 화면 구현)](https://deview.kr/2020/sessions/400)
+<details>
+<summary>2021년 이전</summary>
+    
+- 2016년 [네이버의 모던 웹 라이브러리](https://deview.kr/2016/schedule#session/165)
+- 2017년 [밑바닥부터 시작하는 360 뷰어](https://deview.kr/2017/schedule/204)
+- 2019년 [React, Angular, Vue를 한 번에 지원하기 위한 설계 (Cross Framework Component)](https://deview.kr/2019/schedule/289)
+- 2020년
+    - [WebXR API를 이용한 웹 AR 개발, 그 한계와 대안](https://deview.kr/2020/sessions/361)
+    - [성능개선 뛰어들기 (고전적 SSR 성능개선)](https://deview.kr/2020/sessions/346)
+    - [egjs 오픈 서커스 오신것을 환영합니다. (InfiniteGrid, Flicking 등 오픈소스를 활용한 아이폰 화면 구현)](https://deview.kr/2020/sessions/400)
+
+</details>
+
+- **dan(deview)**
     - 2021년
         - [네이버 검색의 Server Driven UI - LAPIN](https://deview.kr/2021/sessions/454)
         - [React, Vue, Svelte… 변화하는 프레임워크 속에서 컴포넌트 발전하기](https://deview.kr/2021/sessions/499)
     - 2023년
         - [하나의 코드로 React, Vue, Svelte 등 모든 프레임워크를 지원할 수 있는 CFCs Reactive](https://deview.kr/2023/sessions/548)
+    - 2024년
+        - [데이터 기반으로 지속적 성장이 가능한 네이버 검색 FE 시스템 구축하기](https://dan.naver.com/24/sessions/622)
+        - [네이버 검색에서 웹 성능 관리하는 방법: web-vitals 수집부터 개선까지](https://dan.naver.com/24/sessions/607)
 - **NAVER Search Colloquium**
     - 2021년 [Front-end Engineering for Building an Immersive Experience in Search](https://searchcolloquium.naver.com/2021/)
     - 2022년 [Front-end Engineering for Rich Search Experience](https://searchcolloquium.naver.com/)
 
 ### 기사
+<details>
+<summary>2021년 이전</summary>
+    
 - 17년
     - [[데뷰2017] 네이버, 밑바닥부터 시작한 ‘360도 뷰어’ 어떻게 개발했나](http://m.ddaily.co.kr/m/m_article/?no=161212)
+    
+</details>
+
 - 21년
     - [웹에서 뛰노는 실감콘텐츠 ‘웹XR’의 개선점과 한계는?](https://n.news.naver.com/mnews/article/138/0002102997?sid=001)
     - [[네이버 어벤저스] 네이버 안에서 3D 세계여행을?…‘웹 XR’이 온다](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=138&aid=0002103040)
 - 22년
     - [[네이버 어벤저스] “공룡이 궁금하면, 티라노사우루스에게 물어봐”](https://www.ddaily.co.kr/news/article/?no=238872)
     - [[네이버 어벤저스] 찰떡같이 알아듣는 ‘검색의 진화’…구글보다 빠르다](https://www.ddaily.co.kr/news/article/?no=238971)
+- 24년
+    - [[네이버 어벤저스] ‘AI 검색’한다면서, 왜 ‘디자인 시스템’부터 만들었을까?](https://www.ddaily.co.kr/page/view/2023112418224124800)
 
 ### 기술 공유
+<details>
+<summary>2021년 이전</summary>
+    
 - [AngularJS 도입 선택 가이드 공개합니다.](http://d2.naver.com/helloworld/1172239)
 - React [적용 가이드1](http://d2.naver.com/helloworld/9297403), [적용 가이드2](http://d2.naver.com/helloworld/1848131)
 - jQuery 애니메이션은 어떻게 작동하는가? [기본 편](http://d2.naver.com/helloworld/0265052), [심화 편](http://d2.naver.com/helloworld/4424601) , [응용 편](http://d2.naver.com/helloworld/9323973)
@@ -122,7 +142,14 @@
 - [User-Agent Client Hints의 도입, UA 프리징을 대비하라](https://d2.naver.com/helloworld/6532276)
 - [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안 - 이론 편](https://d2.naver.com/helloworld/0527763)
 - [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안 - 실전 편](https://d2.naver.com/helloworld/0189619)
+
+</details>
+
 - [웹 3D 모델 최적화 기법 소개](https://d2.naver.com/helloworld/6152907)
+- [뭣? 딸깍 몇 번에 웹 E2E 테스트 코드를 생성하고 수행한다고? 에러도 잡아준다고? 영상도 뽑아준다고?](https://d2.naver.com/helloworld/4003712)
+- [네이버 통합 검색의 웹 성능 - 데이터 수집과 시각화](https://d2.naver.com/helloworld/9227596)
+- [네이버 통합 검색의 웹 성능 - 모니터링과 성능 개선](https://d2.naver.com/helloworld/8113611)
+- [네이버 검색 클라이언트 로그 수집 - Beacon API 전환기](https://d2.naver.com/helloworld/1773964)
 
 ### 링크
 - [egjs 오픈소스](http://naver.github.io/egjs/)
