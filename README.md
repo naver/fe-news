@@ -136,9 +136,9 @@ FE News는 네이버 FE 엔지니어들이 엄선한 양질의 `FE 및 주요한
 
 ## 🧑🏻‍💻 Team
 
-[![Jae Sung Park](https://avatars.githubusercontent.com/u/2178435?s=150&v=4)](https://github.com/netil) | [![DonBum Ham](https://avatars.githubusercontent.com/u/5152681?s=150&v=4)](https://github.com/silveracy) | [![Inkyu Oh](https://avatars.githubusercontent.com/u/13645032?s=150&v=4)](https://github.com/gomjellie) | [![inhyuck Choi](https://avatars.githubusercontent.com/u/25454596?s=150&v=4)](https://github.com/inhyuck) | [![Inseo Hwang](https://avatars.githubusercontent.com/u/24623403?s=150&v=4)](https://github.com/sjsjsj1246)
-:---:|:---:|:---:|:---:|:---:
-[Jae Sung Park](https://github.com/netil) | [DonBum Ham](https://github.com/silveracy) | [Inkyu Oh](https://github.com/gomjellie) | [inhyuck Choi](https://github.com/inhyuck) | [Inseo Hwang](https://github.com/sjsjsj1246) 
+[![Jae Sung Park](https://avatars.githubusercontent.com/u/2178435?s=150&v=4)](https://github.com/netil) | [![DonBum Ham](https://avatars.githubusercontent.com/u/5152681?s=150&v=4)](https://github.com/silveracy) | [![Inkyu Oh](https://avatars.githubusercontent.com/u/13645032?s=150&v=4)](https://github.com/gomjellie) | [![Inseo Hwang](https://avatars.githubusercontent.com/u/24623403?s=150&v=4)](https://github.com/sjsjsj1246)
+:---:|:---:|:---:|:---:
+[Jae Sung Park](https://github.com/netil) | [DonBum Ham](https://github.com/silveracy) | [Inkyu Oh](https://github.com/gomjellie) | [Inseo Hwang](https://github.com/sjsjsj1246) 
 
 ## 😎 Contributors
 
