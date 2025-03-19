@@ -123,6 +123,8 @@
     - [[네이버 어벤저스] 찰떡같이 알아듣는 ‘검색의 진화’…구글보다 빠르다](https://www.ddaily.co.kr/news/article/?no=238971)
 - 24년
     - [[네이버 어벤저스] ‘AI 검색’한다면서, 왜 ‘디자인 시스템’부터 만들었을까?](https://www.ddaily.co.kr/page/view/2023112418224124800)
+- 25년
+    - [네이버 검색, 2.31초만에 주요 콘텐츠 다 띄운다](https://n.news.naver.com/mnews/article/011/0004462794?sid=105)
 
 ### 기술 공유
 <details>
@@ -150,6 +152,8 @@
 - [네이버 통합 검색의 웹 성능 - 데이터 수집과 시각화](https://d2.naver.com/helloworld/9227596)
 - [네이버 통합 검색의 웹 성능 - 모니터링과 성능 개선](https://d2.naver.com/helloworld/8113611)
 - [네이버 검색 클라이언트 로그 수집 - Beacon API 전환기](https://d2.naver.com/helloworld/1773964)
+- [2024 네이버 통합검색의 웹 성능 리뷰](https://d2.naver.com/helloworld/9582944)
+- [[DAN 24] 데이터 기반으로 지속 성장이 가능한 네이버 검색 FE 시스템 구축하기](https://d2.naver.com/helloworld/3435419)
 
 ### 링크
 - [egjs 오픈소스](http://naver.github.io/egjs/)
