@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <!-- Meta tags -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="viewport" content="width=device-width" />
+
+    <!-- Chrome, Firefox OS and Opera mobile address bar theming -->
+    <meta name="theme-color" content="#000000">
+    <!-- Windows Phone mobile address bar theming -->
+    <meta name="msapplication-navbutton-color" content="#000000">
+    <!-- iOS Safari mobile address bar theming -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#000000">
+
+    <!-- SEO -->
+    <meta name="description" content="2025년 한국 JavaScript/Front-end 개발환경 설문조사">
+    <meta name="author" content="Jae Sung Park">
+    <meta name="keywords" content="survey, JavaScript, Front-end">
+
+    <meta property="og:description" content="2025년 한국 JavaScript/Front-end 개발환경 설문조사">
+    <meta property="og:locale" content="ko_KR">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://github.com/naver/fe-news/stateof-fejs/2025/">
+    <link rel="canonical" href="https://pages.https://github.com/naver/fe-news/stateof-fejs/2025/">
+
+    <!-- Fav and Title -->
+    <title>State of FE·JS Korea 2025</title>
+
+    <!-- Halfmoon -->
+    <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
+    <link href="../assets/css/common.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/billboard.js/dist/theme/datalab.min.css" rel="stylesheet" />
+
+    <!-- Font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <!-- Roboto font (Used when Apple system fonts are not available) -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- Documentation styles -->
+    <link href="/static/site/css/documentation-styles-4.css" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Nabla&display=swap" rel="stylesheet">
+
+    <body class="dark-mode with-custom-webkit-scrollbars with-custom-css-scrollbars" data-dm-shortcut-enabled="true" data-sidebar-shortcut-enabled="true" data-set-preferred-mode-onload="true">
+    <!-- Page wrapper start -->
+    <div id="page-wrapper" class="page-wrapper with-navbar with-sidebar with-navbar-fixed-bottom" data-sidebar-type="overlayed-sm-and-down">
+
+        <!-- Sticky alerts -->
+        <div class="sticky-alerts"></div>
+
+        <!-- Navbar start -->
+        <nav class="navbar">
+            <div class="navbar-content">
+                <button id="toggle-sidebar-btn" class="btn btn-action" type="button" onclick="toggleSidebar()">
+                    <i class="fa fa-bars" aria-hidden="true"></i>
+                </button>
+            </div>
+            <a href="#" id="naver-logo" class="top navbar-brand">
+                <span class="d-none d-sm-flex">State of FE·JS Korea 2025</span>
+            </a>
+            
+            <div class="navbar-content ml-auto">
+                <button class="btn btn-action mr-5" type="button" onclick="halfmoon.toggleDarkMode()">
+                    <i class="fa fa-moon-o" aria-hidden="true"></i>
+                    <span class="sr-only">Toggle dark mode</span>
+                </button>
+            </div>
+            <div class="dropdown">
+                <button class="btn" data-toggle="dropdown" type="button" id="dropdown-toggle-btn-1" aria-haspopup="true" aria-expanded="false">
+                    이전 결과보기 <i class="fa fa-angle-down ml-5" aria-hidden="true"></i>
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdown-toggle-btn-1"></div>
+              </div>
+        </nav>
+        <!-- Navbar end -->
+
+        <!-- Sidebar overlay -->
+        <div class="sidebar-overlay" onclick="halfmoon.toggleSidebar()"></div>
+
+        <!-- Sidebar start -->
+        <div class="sidebar">
+            <div class="sidebar-menu"></div>
+        </div>
+        <!-- Sidebar end -->
+
+        <!-- Content wrapper start -->
+        <div class="content-wrapper">
+            <div class="container-fluid">
+                <div class="row row-eq-spacing-lg mw-full">
+                    <div class="col-lg-12">
+
+                        <!-- visit counter -->
+                        <img src="https://hits.sh/github.com/naver/fe-news/stateof-js-2025.svg?view=today-total" class="img-fluid rounded-top float-right">
+
+                        <div class="w-600 mw-full"> <!-- w-400 = width: 40rem (400px), mw-full = max-width: 100% -->
+                            <div class="card border">
+                                <!-- <img src="../assets/img/js-logo.svg" style="width:20%" class="float-right img-fluid" alt="JavaScript 로고"><br> -->
+                                <!-- <h3 class="text-primary">
+                                    State of FE·JS <span class="year-text">Korea 2025</span>
+                                </h3> -->
+                                <p id="main-logo" class="text-center"></p>
+                                <ul class="card-title border-bottom" style="line-height:1">
+                                    <li>조사기간: 2025.4.7(월) ~ 5.16(금)</li>
+                                    <li>총 응답자 수: 249명</li>
+                                </ul>
+                                <p>
+                                    이 설문조사는 국내 개발자들이 어떤 FE/JS 환경에서 개발하고 있는지를 파악하고, 이를 공유해 국내 생태계에 도움을 주고자 기획하게 되었습니다.
+                                </p>
+                                 <p>
+                                    설문조사의 주요 목적은 다음과 같습니다:
+                                 </p>
+                                <ul class="mb-20" style="line-height:1">
+                                    <li>어떤 기술 영역에서 집중이 필요한지 판단할 수 있는 지표를 공유</li>
+                                    <li>국내 개발자들의 FE/JS 환경을 확인해 기술 스택 선택을 도와주는 역할</li>
+                                </ul>
+                                 <p>
+                                    소중한 의견 주신 모든 분들께 감사드립니다! 👍
+                                 </p>
+                                <div id="authors" class="fs-6 text-muted mb-10"></div>
+                                <div class="progress" style="height:3px">
+                                    <!-- Default progress bar -->
+                                    <div class="progress-bar" role="progressbar" style="width:20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <!-- Success progress bar -->
+                                    <div class="progress-bar bg-success" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <!-- Secondary progress bar -->
+                                    <div class="progress-bar bg-secondary" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <!-- Danger progress bar -->
+                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <div class="progress-bar" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                <div class="px-card py-10 border-top text-center">
+                                    Powered by <a id="bb-logo" href="https://github.com/naver/billboard.js" target="_new" title="더 나은 미래를 위해, 오픈소스 기여에 참여해 보시는건 어떨까요?"></a>
+                                </div>
+                            </div>
+                          </div>
+
+                          <!-- Content Area -->
+                        <div id="content"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Content wrapper end -->
+
+        <!-- Navbar fixed bottom start -->
+        <nav class="navbar navbar-fixed-bottom d-flex flex-row-reverse">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a href="#" class="top nav-link" role="button">
+                        <i class="fa fa-arrow-up mr-5" aria-hidden="true"></i> Top
+                    </a>
+                </li>
+            </ul>
+            <span class="navbar-text">
+                Made with <i class="fa fa-heart text-danger ml-5 mr-5" aria-hidden="true"></i> by <a href="https://github.com/netil" class="ml-5 mr-5" target="_new">Jae Sung Park</a> (H26y & FE News)
+            </span>
+        </nav>
+        <!-- Navbar fixed bottom end -->
+
+    </div>
+    <!-- Page wrapper end -->
+
+    <!-- Halfmoon JS -->
+    <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/billboard.js/dist/billboard.pkgd.min.js"></script>
+    <script src="../assets/js/common.js"></script>
+    <script type="module" src="../assets/js/survey.mjs"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113547757-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-113547757-1');
+    </script>
+</body>
+</html>

@@ -1,0 +1,630 @@
+{
+    "role": {
+        "chart": {
+            "data": {
+                "columns": [
+                    ["Front-end", 207],
+                    ["Full-stack", 39],
+                    ["Back-end", 3]
+                ],
+                "type": "treemap",
+                "labels": {
+                    "centered": true,
+                    "colors": "#000"
+                },
+                "order": "desc"
+            },
+            "color": {
+                "pattern": ["#65cfc2", "#d0a45f", "#64a4f5", "#a377fe"]
+            },
+            "treemap": {
+                "label": {
+                    "threshold": 0.1
+                }
+            }
+        }
+    },
+    "experience": {
+        "chart": {
+            "data": {
+                "columns": [
+                    ["1년 미만", 13],
+                    ["1~3년", 108],
+                    ["4~6년", 74],
+                    ["7~9년", 30],
+                    ["10~14년", 18],
+                    ["15~20년", 5],
+                    ["20년 이상", 1]
+                ],
+                "type": "treemap",
+                "labels": {
+                    "centered": true,
+                    "colors": "#000"
+                },
+                "order": "desc"
+            },
+            "color": {
+                "pattern": ["#65cfc2", "#d0a45f", "#64a4f5", "#a377fe"]
+            },
+            "treemap": {
+                "tile": "squrify",
+                "label": {
+                    "threshold": 0.02
+                }
+            }
+        }
+    },
+    "ratio-js": {
+        "preference": "<span class='badge badge-success'>1~30%</span> > 작성하지 않음 > 61~90% > 31~60% > <span class='badge'>100%</span>",
+        "chart": {
+            "data": {
+                "columns": [
+                    ["작성하지 않음", 57],
+                    ["1~30%", 102],
+                    ["31~60%", 30],
+                    ["61~90%", 34],
+                    ["100%", 25]
+                ],
+                "type": "pie"          
+            }
+        }
+    },
+    "ratio-ts": {
+        "preference": "<span class='badge badge-success'>61~90%</span> > 100% > 31~60% > 1~30% > <span class='badge'>작성하지 않음</span>",
+        "chart": {
+            "data": {
+                "columns": [
+                    ["작성하지\n않음", 15],
+                    ["1~30%", 20],
+                    ["31~60%", 28],
+                    ["61~90%", 101],
+                    ["100%", 85]
+                ],
+                "type": "pie"          
+            }
+        }
+    },
+    "ratio-html": {
+        "preference": "<span class='badge badge-success'>1~30%</span> > 31~60% > 작성하지 않음 > 100% > <span class='badge'>61~90%</span>",
+        "chart": {
+            "data": {
+                "columns": [
+                    ["작성하지 않음", 39],
+                    ["1~30%", 121],
+                    ["31~60%", 53],
+                    ["61~90%", 15],
+                    ["100%", 21]
+                ],
+                "type": "pie"          
+            }
+        }
+    },
+    "ratio-css": {
+        "preference": "<span class='badge badge-success'>1~30%</span> > 31~60% > 100% > 작성하지 않음 > <span class='badge'>61~90%</span>",
+        "chart": {
+            "data": {
+                "columns": [
+                    ["작성하지\n않음", 20],
+                    ["1~30%", 115],
+                    ["31~60%", 74],
+                    ["61~90%", 17],
+                    ["100%", 23]
+                ],
+                "type": "pie"          
+            }
+        }
+    },
+    "framework": {
+        "preference": "<span class='badge badge-success'>React</span> > Svelte > Vue.js > Preact > HTMX > SolidJS > Qwik > Angular > <span class='badge'>Lit</span>",
+        "others": ["jQuery, Django, Alpine.js"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["React", "Vue.js", "Angular", "Svelte", "Preact", "SolidJS", "Qwik", "Lit", "HTMX"],
+                    [0, 1, 1, 4, 65, 85, 124, 156, 85],
+                    [4, 79, 175, 82, 114, 110, 79, 61, 106], 
+                    [5, 47, 29, 130, 54, 48, 40, 23, 53],
+                    [5, 87, 42, 21,  9, 3, 3, 6, 4],
+                    [235, 35, 1, 12, 5, 1, 1, 1, 0]
+                ]            
+            }
+        }
+    },
+    "visualization": {
+        "preference": "<span class='badge badge-success'>D3.js</span> > Chart.js > Recharts > Highcharts > billboard.js > <span class='badge'>Echarts</span>",
+        "others": ["ApexCharts.js, Victory, visx, nivo, Vega, React Flow, AG Charts, Three.js, Lightweight Charts, AntV"],
+        
+        "chart": {
+            "data": {
+                "columns": [
+                    ["billboard.js", "Chart.js", "Highcharts", "Echarts", "Recharts", "D3.js"],
+                    [145, 20, 132, 154, 111, 31],
+                    [52, 24, 35, 36, 37, 27],
+                    [32, 50, 20, 14, 28, 126],
+                    [9, 39, 25, 36, 16, 18],
+                    [11, 116, 35, 28, 56, 47]
+                ]            
+            }
+        }
+    },
+    "state-management": {
+        "preference": "<span class='badge badge-success'>Zusantd</span> > ContextAPI/useContext > Jotai > Redux > MobX > Vuex > XState > <span class='badge'>valtio</span>",
+        "others": ["Recoil, Pinia, Signals, TanStack Store, Legend State"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["Zustand", "Jotai", "MobX", "Redux", "XState", "ContextAPI\n/useContext", "Vuex", "valtio"],
+                    [10, 20, 29, 3, 143, 7, 92, 178],
+                    [12, 44, 125, 32, 44, 8, 64, 37],
+                    [44, 86, 33, 13, 46, 17, 13, 22],
+                    [15, 25, 51, 156, 9, 43, 55, 7],
+                    [167, 72, 10, 44, 4, 174, 24, 3]
+                ]            
+            }
+        }
+    },
+    "meta-framework": {
+        "preference": "<span class='badge badge-success'>Next.js</span> > Remix > SvelteKit > Nuxt > <span class='badge'>SolidStart</span>",
+        "others": ["TanStack Start, RedwoodJS"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["Next.js", "Remix", "Nuxt", "SvelteKit", "SolidStart"],
+                    [0, 24, 12, 28, 136],
+                    [9, 53, 125, 103, 81],
+                    [37, 142, 67, 102, 29],
+                    [21, 9, 26, 5, 1],
+                    [182, 20, 19, 8, 0]
+                ]            
+            }
+        }
+    },
+    "web-framework": {
+        "preference": "<span class='badge badge-success'>Nest</span> > Express.js > Fastify > Astro > Deno Fresh > Koa > <span class='badge'>Hono</span>",
+        "others": ["Nitro, Laravel, ElysiaJS, h3"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["Express.js", "Nest", "Deno Fresh", "Hono", "Astro", "Koa", "Fastify"],
+                    [4, 23, 162, 193, 99, 143, 127],
+                    [19, 29, 35, 20, 56, 50, 48],
+                    [37, 112, 44, 23, 76, 18, 49],
+                    [65, 22, 2, 2, 5, 22, 4],
+                    [124, 63, 4, 7, 12, 14, 18]
+                ]
+            }
+        }
+    },
+    "desktop-mobile": {
+        "preference": "<span class='badge badge-success'>React Native</span> > Electron > PWA > Expo > Tauri > NW.js > Quasar > <span class='badge'>NativeScript</span>",
+        "others": ["Lynx, Flutter, Cordova"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["Electron", "React Native", "NativeScript", "Tauri", "NW.js", "Expo", "PWA", "Quasar"],
+                    [16, 2, 171, 163, 210, 80, 46, 195],
+                    [38, 29, 49, 31, 27, 36, 28, 31],
+                    [129, 109, 21, 44, 14, 50, 95, 10],
+                    [23, 26, 5, 2, 1, 21, 22, 10],
+                    [43, 83, 3, 7, 1,58, 57, 2]
+                ]            
+            }
+        }
+    },
+    "static-site-generator": {
+        "preference": "<span class='badge badge-success'>Docusaurus</span> > VitePress > Gatsby > Jekyll > Hugo > Hexo > <span class='badge'>Eleventy</span>",
+        "others": ["Rspress, Nextra, Next.js SSG"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["Gatsby", "Docusaurus", "VitePress", "Hugo", "Eleventy", "Hexo", "Jekyll"],
+                    [28, 136, 142, 189, 222, 201, 110],
+                    [87, 38, 45, 31, 16, 30, 55],
+                    [60, 41, 37, 11, 8, 3, 25],
+                    [54, 7, 2, 11, 1, 11, 47],
+                    [19, 26, 21, 6, 0, 3, 12]
+                ]            
+            }
+        }
+    },
+    "testing": {
+        "preference": "<span class='badge badge-success'>Storybook</span> > Jest > Vitest > MSW > Playwright > Testing Library > Cypress > Puppeteer > Mocha > Runtime Test Runner > WebDriverIO > <span class='badge'>TestCafe</span>",
+        "others": ["Node Inspector"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["Jest", "Mocha", "Storybook", "Cypress", "Puppeteer", "Playwright", "Testing Library", "Vitest", "TestCafe", "WebDriverIO", "MSW", "Runtime Test Runner"],
+                    [9, 64, 10, 42, 101, 61, 77, 58, 218, 218, 86, 159],
+                    [13, 72, 11, 38, 36, 14, 16, 12, 20, 15, 8, 28],
+                    [53, 54, 67, 82, 50, 91, 49, 64, 4, 7, 26, 33],
+                    [41, 41, 19, 38, 29, 5, 9, 3, 3, 3, 7, 5],
+                    [133, 18, 142, 47, 33, 78, 96, 109, 0, 4, 122, 23]
+                ]            
+            }
+        }
+    },
+    "testing-how": {
+        "preference": "<span class='badge badge-success'>필요한 경우에만</span> > 하지 않음 > AI 생성 > 반드시 한다 > <span class='badge'>필요 알지만 바빠서 못함</span>",
+        "chart": {
+            "data": {
+                "columns": [
+                    ["필요한 경우에만", 118],
+                    ["하지 않음", 70],
+                    ["AI 생성", 44],
+                    ["반드시 한다", 8],
+                    ["필요 알지만 바빠서 못함", 5]
+                ],
+                "type": "pie"          
+            },
+            "arc": {
+                "cornerRadius": 50
+            }
+        }
+    },
+    "testing-pains": {
+        "others": [
+            "귀찮음", 
+            "작성 기준과 범위의 모호함", 
+            "노가다, 컴포넌트 분리", 
+            "테스트 코드를 작성하지 않는 문화와 작성할 수 없는 일정 및 환경", 
+            "이미 어떻게 동작할지 예상하고, 예상한데로 테스트 코드 작성하고, 예상하는데로 동작하지만 그거 자체가 버그인 경우도 있고 테스트 코드 작성을 환영하지만 회사의 생산성 저하 우려로 실제로 하지 못함", 
+            "생산성 저하", 
+            "어느상황에 어떻게 작성하고 어떻게 관리할지 명확한 예시같은게 있으면 좋을 것 같다", 
+            "통합테스트는 깨지기 쉬운부분", 
+            "테스트 코드를 작성하고 맞는지에 대한 테스트를 하게 되는 느낌을 많이 받는다.", 
+            "작성 이후 관리", 
+            "오버엔지니어링 이라는 인식, 비공식 리소스 확보", 
+            "테스트 시나리오를 어떻게 짜야하는지와 어디까지 커버해야하는지 어렵다.", 
+            "mocking", 
+            "빠른 변경에 취약", 
+            "어떤 테스트 케이스를 작성해야 효과적일지", 
+            "요구사항 변경만큼 테스트 코드를 변경해야 해서 번거롭고 변경하는 내용에 빠른 대응이 어려움", 
+            "유닛 자체도 어렵지만, 복합적인 상황일 때 더욱 어려움", 
+            "작성에 비해 임팩트가 크지 않음", 
+            "시간, API와 같은 외부의 의존 데이터 모킹", 
+            "테스트 작성의 명확한 요구사항, 테스트 규모의 기준 모호(e2e, Integration, component, unit)", 
+            "테스트케이스를 고객이 이해하지 못한다", 
+            "시간적 여유가 없으면 작성할 수 없어요", 
+            "클라이언트에 의존적인 기능을 Mocking 하는 경우", 
+            "예외없는 테스트 케이스 작성, 개발 시간 부족", 
+            "내가 뭘 모르는지 모르는 경우가 가장 취약했음. AI 의 객관적 도움을 많이 받았음.", 
+            "굳이 해야하나? 어차피 FE는 유의미한 test 커버리지를 뽑기엔 너무 힘들던데", 
+            "WebdriverIO 도입하고 싶은데, 반발이 클 것 같아서 못하고있다.", 
+            "개발일정에 밀려서 테스트 코드를 작성할 시간이 없음", 
+            "시나리오 구성", 
+            "테스트코드를 작성한다면 어떻게 나눠서 해야하는지 잘 작성한 테스트 코드란 무엇인지 모르겠습니다.", 
+            "생산성과 상반되는 작업 빛 필요성을 느끼기 힘든 바쁜 스타트업과 같은 환경", 
+            "유지보수", 
+            "테스트 대상 선정하는 것", 
+            "프로젝트가 테스트코드를 작성할 시간을 주지 않음", 
+            "테스트를 위한 테스트 코드가 되고 별도로 확인하게됨", 
+            "테스트 범위", 
+            "명확하지 않은 spec", 
+            "프로젝트 여유기간이 없어 작성할 시간이 없음", 
+            "개발/프로덕션에선 멀쩡한데 테스트 환경에서만 깨지는 코드가 있을때", 
+            "테스트 시나리오", 
+            "테스트를 고려하지 않은 코드 작성", 
+            "기획 변경에 따른 테스트 코드 업데이트", 
+            "avoid implementation testing but have to cover the coverage"
+
+        ]
+    },
+    "pkg-tool": {
+        "preference": "<span class='badge badge-success'>npm</span> > pnpm > nvm > Yarn berry > Yarn Classic > n > Volta > <span class='badge'>fnm</span>",
+        "chart": {
+            "data": {
+                "columns": [
+                    ["npm", 196],
+                    ["Yarn Classic (v1.x)", 92],
+                    ["Yarn berry", 99],
+                    ["pnpm", 156],
+                    ["Volta", 7],
+                    ["nvm", 124],
+                    ["fnm", 5],
+                    ["n", 10]
+                    
+                ],
+                "type": "pie"          
+            }
+        }
+    },
+    "build-tools": {
+        "preference": "<span class='badge badge-success'>Vite</span> > Turbopack > esbuild > Webpack > Rollup > Rspack > Parcel > <span class='badge'>tsup</span>",
+        "others": ["Gulp, bunchee, Metro, rolldown/tsdown"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["Webpack", "Parcel", "Rollup", "esbuild", "Vite", "Turbopack", "Rspack", "tsup"],
+                    [1, 76, 52, 30, 6, 38, 160, 179],
+                    [4, 75, 36, 30, 6, 22, 21, 17],
+                    [14, 51, 51, 74, 30, 87, 53, 24],
+                    [86, 39, 24, 17, 6, 15, 3, 5],
+                    [144, 8, 84, 96, 201, 83, 10, 23]
+                ]            
+            }
+        }
+    },
+    "transpiler-runtime": {
+        "preference": "<span class='badge badge-success'>tsc</span> > Babel > <span class='badge'>SWC</span> &nbsp;/&nbsp; <span class='badge badge-success'>Node.js</span> > Bun > Deno > <span class='badge'>WinterJS</span>",
+        "others": ["<a href='' target=_new>tsgo</a>"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["Babel", "SWC", "tsc", "Node.js", "Deno", "Bun", "WinterJS"],
+                    [3, 46, 32, 0, 60, 45, 208],
+                    [12, 26, 13, 1, 49, 42, 29],
+                    [26, 72, 25, 13, 110, 116, 12],
+                    [55, 11, 8, 5, 15, 13, 0],
+                    [152, 93, 171, 229, 13, 32, 0]                    
+                ]
+            }
+        }
+    },
+    "monorepo": {
+        "preference": "<span class='badge badge-success'>사용 안 함</span> > Turborepo > Yarn Workspaces > npm Workspaces > Lerna > <span class='badge'>Nx</span>",
+        "chart": {
+            "data": {
+                "columns": [
+                    ["Lerna", 13],
+                    ["Turboreppo", 60],
+                    ["Yarn workspaces", 28],
+                    ["npm\nworkspaces", 26],
+                    ["Nx", 8],
+                    ["사용\n안 함", 111]                    
+                ],
+                "type": "pie"
+            }
+        }
+    },
+    "css-tools": {
+        "preference": "<span class='badge badge-success'>Tailwind CSS</span> > Plain CSS > SASS/SCSS > <span class='badge'>PostCSS</span>",
+        "others": ["styled-components, Emotion, panda-css, StyleX, vanilla-extract, CSS Modules"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["SASS/SCSS", "Plain\nCSS", "PostCSS", "Tailwind CSS"],
+                    [4, 14, 43, 3],
+                    [23, 8, 38, 17],
+                    [16, 7, 26, 34],
+                    [86, 89, 59, 27],
+                    [120, 131, 83, 167]
+                ]
+            }
+        }
+    },
+    "design-system-use": {
+        "preference": "<span class='badge badge-success'>이미 사용</span> > 도입고려 > 고려 안 함 > <span class='badge'>제거 고려</span>",
+        "chart": {
+            "data": {
+                "columns": [
+                    ["이미 사용", 144],
+                    ["도입 고려", 71],
+                    ["제거 고려", 3],
+                    ["고려\n안 함", 30]                    
+                ],
+                "type": "pie"
+            }
+        }
+    },
+    "ui-components": {
+        "preference": "<span class='badge badge-success'>shadcn/ui</span> > Radix > MUI > Chakra UI > Ant Design > Semantic UI > <span class='badge'>Bootstrap</span>",
+        "others": ["Mantine, React Aria, Ark UI, Base UI, Vuetify, daisyUI, Koromo, Carbon Design System, Flowbite, Pico CSS, Headless UI"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["MUI", "Ant Design", "Chakra UI", "Semantic UI", "Bootstrap", "Radix", "shadcn/ui"],
+                    [20, 38, 67, 98, 10, 97, 45],
+                    [23, 47, 48, 57, 47, 32, 4],
+                    [27, 22, 54, 39, 12, 34, 75],
+                    [103, 89, 49, 39, 157, 13, 8],
+                    [74, 51, 27, 14, 20, 71, 115]
+                ]
+            }
+        }
+    },
+    "ai-tool": {
+        "preference": "<span class='badge badge-success'>ChatGPT</span> > Claude > Cursor > Copilot > Gemini > ... <span class='badge'>Lovable / Roo Code</span>",
+        "others": ["Code Rabbit, Ollama, Junie, Felo, Genspark.ai, Jetbrains AI"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["ChatGPT", 217],
+                    ["Claude", 128],
+                    ["Gemini", 59],
+                    ["Copilot", 91],
+                    ["Cursor", 118],
+                    ["Windsurf", 9],
+                    ["Cline", 20],
+                    ["Roo code", 1],
+                    ["Lovable", 1],
+                    ["Replit", 3],
+                    ["v0", 18],
+                    ["Perplexity", 22],
+                    ["Grok", 4],
+                    ["Trae", 2]                    
+                ],
+                "type": "pie"
+            }
+        }
+    },
+    "ai-usage": {
+        "preference": "<span class='badge badge-success'>코드 어시스트</span> > 리팩토링 > 프로토타이핑 > 테스트 코드 작성 > 코드 리뷰 > <span class='badge'>Vibe Coding</span>",
+        "others": ["UX/UI 작업, 구글 검색 대용, 예상 문제 분석, 사고의 정합성 여부 검증, 코드분석, API 검색, 디버깅, 개발문서 작성"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["코드 어시스트", 226],
+                    ["프로토타이핑", 128],
+                    ["리팩토링", 142],
+                    ["테스트 코드 작성", 87],
+                    ["코드 리뷰", 53],
+                    ["Vibe Coding", 1]
+                ],
+                "type": "pie"
+            }
+        }
+    },
+    "ai-difficulties": {
+        "preference": "<span class='badge badge-success'>구독비용</span> > 결과물 불만족 > 좋은 도구 판별 > 신뢰성 > 코드유출, 개인정보보호 > 비용대비 생산성 > <span class='badge'>프롬프트 작성</span>",
+        "others": ["내가 대체될수있다는 불안감 너무 똑똑해서 때로는 놀람, might overuse"],
+        "chart": {
+            "data": {
+                "columns": [
+                    ["구독비용", 121],
+                    ["좋은 도구 판별", 72],
+                    ["비용대비\n생산성", 45],
+                    ["결과물 불만족", 117],
+                    ["코드 유출, 개인정보보호", 52],
+                    ["신뢰성", 58],
+                    ["프롬프트 작성", 17]
+                ],
+                "type": "pie"
+            }
+        }
+    },
+    "ai-affects": {
+        "preference": "<span class='badge badge-success'>(타 영역과) 동일하게 영향</span> > 매우 영향 > 더 영향 > <span class='badge'>덜 영향</span>",
+        "chart": {
+            "data": {
+                "columns": [
+                    ["영향 없음", 0],
+                    ["덜 영향", 14],
+                    ["동일하게 영향", 82],
+                    ["더 영향", 73],
+                    ["매우 영향", 78]
+                ],
+                "type": "pie"
+            }
+        }
+    },
+    "complexity": {
+        "chart": {
+            "title": {
+                "text": "1 ← … 그렇지 않다 / 매우 그러하다 … → 5"
+            },
+            "data": {
+                "columns": [
+                    ["FE 개발\n복잡하다", "JS 과도하게\n사용되고 있다", "FE/JS 생태계 변화가\n너무 빠르다", "현재의 FE(JS)\n발전 방향은 올바르다", "JS개발은 만족스럽다"],
+                    ["1", 4, 36, 3, 10, 7],
+                    ["2", 35, 78, 19, 28, 29],
+                    ["3", 55, 72, 32, 91, 60],
+                    ["4", 106, 37, 74, 84, 102],
+                    ["5", 46, 5, 23, 33, 48]
+                ],
+                "colors": {
+                    "1": "rgb(187, 187, 187)",
+                    "2": "rgb(101, 129, 176)",
+                    "3": "rgb(3, 208, 65)",
+                    "4": "rgb(243, 220, 73)",
+                    "5": "rgb(238, 26, 96)"
+                },
+                "stack": {
+                    "normalize": false
+                },
+                "labels": true
+            },
+            "bar": {
+                "radius": {
+                  "ratio": 0.2
+                }
+            },
+            "groups": null,
+            "axis": {
+                "y": {
+                    "tick": {
+                        "count": null,
+                        "stepSize": 20
+                    }
+                }
+            }
+        }
+    },
+    "difficulties": {
+        "chart": {
+            "title": {
+                "text": "1 ← … 그렇지 않다 / 매우 그러하다 … → 5"
+            },
+            "data": {
+                "columns": [
+                    ["의존성 관리", "코드 아키텍처", "상태관리", "디버깅", "모듈 관리", "필요 패키지 검색"],
+                    ["1", 13, 9, 20, 25, 20, 67],
+                    ["2", 33, 16, 45, 47, 42, 66],
+                    ["3", 49, 53, 68, 62, 75, 46],
+                    ["4", 99, 89, 71, 72, 64, 49],
+                    ["5", 53, 80, 43, 40, 46, 19]
+                ],
+                "colors": {
+                    "1": "rgb(187, 187, 187)",
+                    "2": "rgb(101, 129, 176)",
+                    "3": "rgb(3, 208, 65)",
+                    "4": "rgb(243, 220, 73)",
+                    "5": "rgb(238, 26, 96)"
+                },
+                "stack": {
+                    "normalize": false
+                },
+                "labels": true
+            },
+            "bar": {
+                "radius": {
+                  "ratio": 0.2
+                }
+            },
+            "groups": null,
+            "axis": {
+                "y": {
+                    "tick": {
+                        "count": null,
+                        "stepSize": 20
+                    }
+                }
+            }
+        }
+    },
+    "tech-concerns": {
+        "preference": "<span class='badge badge-success'>소프트웨어 설계</span> > 신기술(트렌드) 지식 > AI 생산성 > UX/UI 이해 > 프로젝트 코드파악 > <span class='badge'>언어/생태계 이해</span>",
+        "chart": {
+            "data": {
+                "columns": [
+                    ["신기술 (트렌드) 지식", 178],
+                    ["소프트웨어 설계", 203],
+                    ["프로젝트\n코드파악", 93],
+                    ["UX/UI 이해", 123],
+                    ["언어/생태계\n이해", 71],
+                    ["AI 생산성", 142]
+                ],
+                "type": "pie"
+            }
+        }
+    },
+    "tech-learning": {
+        "preference": "<span class='badge badge-success'>검색</span> > 기술 콘텐츠 > FE News > 기술서적 > 온라인과정 > <span class='badge'>스터디 모임</span>",
+        "chart": {
+            "data": {
+                "columns": [
+                    ["검색", 230],
+                    ["기술서적", 111],
+                    ["온라인 과정 (인프런, 유튜브 등)", 109],
+                    ["FE News", 167],
+                    ["스터디 모임", 34],
+                    ["기술 콘텐츠 (블로그,\n메일링 등)", 188]
+                ],
+                "type": "pie"
+            }
+        }
+    },
+    "other-opinions": {
+        "others": [
+            "AI의 발전 속도는 나날이 빨라지며 개발자 시장에 큰 영향을 줄 것 같습니다. 단순히 코드 복붙만 하지 말고 AI에 대한 대응을 철저히 준비해야 할 때가 아닐까요?",
+            "AI와 AX의 관심은 뜨겁고, 빠른 로딩속도를 위해 CSS-in-JS가 사라져가고 있는데 DX는 언제 개선이 될까. DX에 관심을 가져주는게 궁극적으로 생산성 강화와 AI에게도 도움을 주는거가 아닐까. 생산성이 높다면 남은 시간에 리펙터링및 퍼포먼스 개선도 가능한거 아닌가 생각됩니다.",
+            "AI로 레이아웃을 구성해준다고 하지만 디자인 시스템에 맞게 원하는 디자인을 잘 만들어주지 않다고 생각합니다. 체크하는 시간도 필요하며 어느정도 숙련되지 않았다면 AI에 의존하는건 위험하다고 생각해요",
+            "AI로 다 제작 가능 하다는 의견에 대한 생각들이 궁금 합니다.",
+            "설문 내용과는 번외의 내용이긴 하지만, 아마 많은 프론트 개발자들이 느끼거나 겪고 있는 상황일 것 같아 제안드립니다.<br><br>특히 국내에선 타 직군에 비해 대대수의 기업에서 프론트 개발자의 중요도와 필요성 많이 떨어지거나 적은 인력 풀을 구성하고 있다고 느끼고 있습니다(실제로는 아니겠지만.). 대기업이나 프론트 직군의 중요도를 높게 사지 않은 기업들이 대부분이라고 생각되는데요. 더군다나 이제는 AI 도구를 활용해서 프론트 영역에 대한 불안감이 많이 조성되는 것 같습니다.<br><br>전반적으로 프론트엔드 개발자의 풀이 많은 커뮤니티에서 현재 상황에 대해서 프론트 개발자의 미래에 대해 방향성과 조언을 제공해주시면 좋을 것 같습니다!<br>감사합니다.",
+            "Bun 이 짱인데 사람들이 몰라줘서 서러워요",
+            "AI로 인해 주니어와 신입은 혹한기를 이미 치루고 있고 더욱 더 심해질 것이다. 이는 비단 SWE만의 문제가 아니다. 과연 자신이 이에 살아남기 위해 어떤 SWE가 될 것인지에 대한 자아 설계가 필요하나, 답이 나오지 않는다",
+            "비교적 빠르게 변화하는 프론트 엔드 환경에서 AI는 좋은 학습도구 및 어시스트가 될 수 있다고 생각하지만, 결국 좋은 코드 및 설계에 AI 도움을 받으려면 개발방법론과 React, Vue와 같은 프레임워크를 이해해야 하는게 좋을것 같습니다.<br><br>기술블로그나 뉴스레터를 많이 찾아보는데, 현재 업무하면서 작성하거나 사용하는 개발 환경(기술스택이나 새로운 기술 도입, 대규모 리팩토링 등..)이 너무 차이가 커서 자괴감이 들 때가 많습니다. 한마디로 저만 뒤쳐진 느낌이 많이 들고, 트렌드가 너무 빨리 바뀌고 나아가고 있어서 더 그렇게 느껴집니다.",
+            "좋은일에 힘써 주셔 감사합니다. 다들 고생 많으십니다.",
+            "프론트엔드 개발자로서 AI를 활용해 자신의 가치를 올리는 방법"
+        ]
+    }
+} 

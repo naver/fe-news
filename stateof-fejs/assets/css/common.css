@@ -1,0 +1,141 @@
+.sidebar-link {
+    padding: 0 2rem;
+    margin-left: 15px;
+}
+
+/* sidbar-link active color for light-mode */
+.sidebar-link.active, .sidebar-link.active:hover {
+    color: #ff4d4f;
+}
+
+ul {
+    list-style-position: outside;
+}
+
+ul > li {
+    margin-left: 20px;
+}
+
+.card.border .text-primary {
+    font-family: 'Nabla', -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 3.0em;
+    line-height: 1.3em;
+    width: 70%;
+    text-align: center;
+}
+
+.code-container .copy-button, .dark-mode .code-container .copy-button {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    width: 8rem;
+    height: 2.4rem;
+    line-height: 2.4rem;
+    padding-top: 0;
+    padding-bottom: 0;
+    z-index: 5;
+}
+
+#naver-logo {
+    width: 40%;
+    display: inline-block;
+    background-position: 0;
+    background-repeat: no-repeat;
+    /* padding: 5px 0 0 110px;
+    background-image: url(../../assets/img/naver-black.svg); */
+}
+
+.dark-mode #naver-logo {
+    /* background-image: url(../../assets/img/naver-white.svg); */
+}
+
+#naver-logo span {
+    font-family: 'Bungee Spice', -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    color: #000;
+    margin-top: -5px;
+}
+
+#main-logo {
+    width: 100%;
+    height: 180px;
+    background: url(../../assets/img/logo.svg) center center / contain no-repeat;
+}
+
+.dark-mode #main-logo {
+    background: url(../../assets/img/logo-white.svg) center center / contain no-repeat;
+}
+
+#bb-logo {
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(../../assets/img/billboard.js.svg);
+    margin-bottom: -30px;
+}
+
+.year-text {
+    -webkit-text-stroke: 2.3px #f7da01;
+    font-size: 1.3em;
+    font-weight: 700;
+}
+
+.dark-mode #naver-logo span {
+    color: #fff;
+}
+
+.dark-mode #bb-logo {
+    background-image: url(../../assets/img/billboard.js-white.svg);
+}
+
+.badge.badge-primary {
+    border-radius: 0;
+    display: inline-block;
+    margin-right: 7px;
+}
+
+.photo {
+    width:80px;
+    float:left;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 40px;
+    border: solid 3px #a7a3a3;
+}
+
+/* billboard.js */
+.dark-mode .bb line, .dark-mode .bb path {
+    stroke: rgba(255,255,255,.65);
+    shape-rendering: crispEdges;
+}
+
+.dark-mode .bb-axis-y2 text, .dark-mode .bb-axis-y text {
+    fill: rgba(255,255,255,.65);
+}
+
+.dark-mode .bb .bb-button, .dark-mode .bb text {
+    fill: rgba(255,255,255,.85);
+}
+
+.dark-mode .bb-tooltip-container {
+    color: #000;
+}
+
+.bb-chart-arc text tspan {
+    fill: #000;
+}
+
+.bb .bb-chart-text text {
+    font-size: 14px;
+}
+
+.bb-chart-arc text tspan {
+    font-size: 0.75em;
+}
+
+.bb-chart-arc text tspan:last-child, .bb-chart-texts text tspan:last-child {
+    stroke-width: 0.3px;
+    font-size: 1em;
+    stroke: #000;
+}
+

@@ -1,0 +1,172 @@
+{
+    "Demographic": {
+        "icon": "fa-users",
+        "list": [
+            {
+                "id": "role",
+                "text": "🧑🏻‍💻 응답자 분포"
+            },
+            {
+                "id": "experience",
+                "text": "🫥 FE/JS 개발 경험"
+            }
+        ]
+    },
+    "코드 작성 비중": {
+        "icon": "fa-pie-chart",
+        "list": [
+            {
+                "id": "ratio-js",
+                "text": "JavaScript"
+            },
+            {
+                "id": "ratio-ts",
+                "text": "TypeScript"
+            },
+            {
+                "id": "ratio-html",
+                "text": "HTML"
+            },
+            {
+                "id": "ratio-css",
+                "text": "CSS"
+            }
+        ]
+    },
+    "Technologies": {
+        "icon": "fa-microchip",
+        "list": [
+            {
+                "id": "framework",
+                "text": "📚 프레임워크/라이브러리"                
+            },
+            {
+                "id": "visualization",
+                "text": "📊 시각화 라이브러리"
+            },
+            {
+                "id": "state-management",
+                "text": "💡 상태 관리자"
+            },
+            {
+                "id": "meta-framework",
+                "text": "😎 메타 프레임워크"
+            },
+            {
+                "id": "web-framework",
+                "text": "🖥️ 웹 프레임워크"
+            },
+            {
+                "id": "desktop-mobile",
+                "text": "📱 데스크톱 & 모바일 프레임워크"
+            },
+            {
+                "id": "static-site-generator",
+                "text": "⚡️ 정적 사이트 생성기"
+            }
+        ]
+    },
+ "Test": {
+        "icon": "fa-check",
+        "list": [
+            {
+                "id": "testing",
+                "text": "🧪 테스트 도구"
+            },
+            {
+                "id": "testing-how",
+                "text": "📝 테스트 작성"
+            },
+            {
+                "id": "testing-pains",
+                "text": "🤯 테스트 어려움"
+            }
+        ]
+    },
+    "Tools": {
+        "icon": "fa-wrench",
+        "text": "Tools",
+        "list": [
+            { 
+                "id": "pkg-tool",
+                "text": "📦 Package & Tool 매니저"
+            },
+            {
+                "id": "build-tools",
+                "text": "⚒️ 빌드/도구"
+            },
+            {
+                "id": "transpiler-runtime",
+                "text": "⚡️ 트랜스파일러 & 런타임"
+            },
+            { 
+                "id": "monorepo",
+                "text": "🔂 Monorepo"
+            }
+        ]
+    },
+    "CSS": {
+        "icon": "fa-paint-brush",
+        "text": "CSS",
+        "list": [
+            {
+                "id": "css-tools",
+                "text": "🎨 CSS 도구"
+            },
+            {
+                "id": "design-system-use",
+                "text": "🧑‍🎨 디자인 시스템"
+            },
+                        {
+                "id": "ui-components",
+                "text": "🧱 UI 컴포넌트"
+            }
+        ]
+    },
+    "AI": {
+        "icon": "fa-flash",
+        "list": [
+            {
+                "id": "ai-tool",
+                "text": "✨ AI 도구"
+            },
+                        {
+                "id": "ai-usage",
+                "text": "🤖 AI 활용"
+            },
+            {
+                "id": "ai-difficulties",
+                "text": "🚧 AI 사용 장애물"
+            },
+            {
+                "id": "ai-affects",
+                "text": "😶‍🌫️ AI FE 영향도"
+            }
+        ]
+    },
+    "Opinions": {
+        "icon": "fa-comments",
+        "list": [
+            {
+                "id": "complexity",
+                "text": "🤔 JS/FE 복잡성/방향성"
+            },
+            {
+                "id": "difficulties",
+                "text": "😭 FE 개발의 어려운 문제"
+            },
+            {
+                "id": "tech-concerns",
+                "text": "🥺 고민 기술 분야"
+            },
+            {
+                "id": "tech-learning",
+                "text": "📖 기술 학습방법"
+            },            
+            {
+                "id": "other-opinions",
+                "text": "🎸 기타 의견"
+            }
+        ]
+    }
+} 
