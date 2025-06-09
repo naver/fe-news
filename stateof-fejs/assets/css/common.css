@@ -103,6 +103,19 @@ ul > li {
     border: solid 3px #a7a3a3;
 }
 
+@media screen and (max-width: 449px) {
+    .photo {
+        width: 60px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .navbar-text {
+        font-size: 0.82em;
+    }    
+}
+
+
 /* billboard.js */
 .dark-mode .bb line, .dark-mode .bb path {
     stroke: rgba(255,255,255,.65);

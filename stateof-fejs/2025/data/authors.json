@@ -2,7 +2,7 @@
         "created by": [
         {
             "name": "박재성",
-            "avatar": "https://avatars.githubusercontent.com/u/2178435?v=4",
+            "avatar": "./img/jaesung.park.png",
             "link": "https://github.com/netil",
             "id": "@netil"
         }
@@ -10,19 +10,19 @@
     "contributors": [
         {
             "name": "장기효",
-            "avatar": "https://avatars.githubusercontent.com/u/3272748?v=4",
+            "avatar": "./img/keehyo.jang.png",
             "link": "https://github.com/joshua1988",
             "id": "@joshua1988"
         },
         {
             "name": "김다현",
-            "avatar": "https://media.licdn.com/dms/image/v2/C5603AQFiS-xP90GUzg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516562724564?e=1753920000&v=beta&t=1lc2Y93lpwy20GYGcsHRSsJ-OLOuz4aeTYDV7S_Z744",
+            "avatar": "./img/dahyun.kim.jpg",
             "link": "https://www.linkedin.com/in/dahyun-kim-72144734/",
             "id": "@dahyun-kim"
         },
         {
             "name": "윤영제",
-            "avatar": "https://avatars.githubusercontent.com/u/2199871?v=4",
+            "avatar": "./img/youngje.yun.png",
             "link": "https://github.com/youngje",
             "id": "@youngje"
         }

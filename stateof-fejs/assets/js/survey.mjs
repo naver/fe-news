@@ -244,6 +244,9 @@ import prevList from "./list.mjs";
                     }
                 }
             },
+            padding: {
+                mode: "fit"
+            },
             axis: {
                 x: {
                     type: "category",
@@ -255,7 +258,8 @@ import prevList from "./list.mjs";
                 y: {
                     tick: {
                         outer: false,
-                        count: 5
+                        count: 5,
+                        rotate: 0
                     }
                 }
             },
@@ -293,25 +297,35 @@ import prevList from "./list.mjs";
                             });
                     }
 
+
+                    if (window.innerWidth < 700) {
+                        options.axis.x.tick.rotate = -40;
+                        options.axis.x.tick.multiline = false;
+                        options.axis.x.height = null;
+                    }
+
                 } else if (data.type === "pie") {
                     options.data.order = "desc";
-                    options.legend = {
-                        position: "right",
-                        item: {
-                            tile: {
-                                type: "circle"
+
+                    if (window.innerWidth >= 550) {
+                        options.legend = {
+                            position: "right",
+                            item: {
+                                tile: {
+                                    type: "circle"
+                                }
                             }
-                        }
-                    };
+                        };
+                    }
 
                     options.data.columns.forEach(column => {
-                        options.pie.outerRadius[column[0]] = 137;
+                        options.pie.outerRadius[column[0]] = 135;
                     });
 
                     const maxId = options.data.columns.reduce((a, c) => (c[1] > a[1]) ? c : a)[0];
                     const minId = options.data.columns.reduce((a, c) => (c[1] < a[1]) ? c : a)[0];
 
-                    options.pie.outerRadius[maxId] = 150;
+                    options.pie.outerRadius[maxId] = window.innerWidth >= 550 ? 150 : 140;
                     options.pie.outerRadius[minId] = 130;
 
                     options.color.pattern = null;
