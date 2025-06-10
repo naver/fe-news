@@ -277,13 +277,14 @@ import prevList from "./list.mjs";
     },
 
     // generate chart
-    generateChart(d) {        
+    generateChart(d) {
         Object.keys(d).forEach(v => {
             const options = mergeObj(this.getChartDefaultOption(), {
                 bindto: `#${v} .chart-holder`,
                 ...d[v].chart
             });
 
+            const isDesktop = window.innerWidth >= 550;
             const {data} = options;
 
             try {
@@ -307,26 +308,26 @@ import prevList from "./list.mjs";
                 } else if (data.type === "pie") {
                     options.data.order = "desc";
 
-                    if (window.innerWidth >= 550) {
+                    if (isDesktop) {
                         options.legend = {
                             position: "right",
                             item: {
                                 tile: {
                                     type: "circle"
                                 }
-                            }
+                            }                            
                         };
                     }
 
                     options.data.columns.forEach(column => {
-                        options.pie.outerRadius[column[0]] = 135;
+                        options.pie.outerRadius[column[0]] = isDesktop ? 130 : 113;
                     });
 
                     const maxId = options.data.columns.reduce((a, c) => (c[1] > a[1]) ? c : a)[0];
                     const minId = options.data.columns.reduce((a, c) => (c[1] < a[1]) ? c : a)[0];
 
-                    options.pie.outerRadius[maxId] = window.innerWidth >= 550 ? 150 : 140;
-                    options.pie.outerRadius[minId] = 130;
+                    options.pie.outerRadius[maxId] = isDesktop ? 150 : 120;
+                    options.pie.outerRadius[minId] = isDesktop ? 120 : 100;
 
                     options.color.pattern = null;
                 } else if (data.type === "treemap") {
