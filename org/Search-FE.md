@@ -1,6 +1,6 @@
 # Search FE
 
-> 팀 직무 안내 https://naver-career.gitbook.io/kr/service/search/reliability-platform/search-fe
+>1. 팀 직무 안내 https://naver-career.gitbook.io/kr/service/search/reliability-platform/search-fe
 
 ### 글로벌 검색 서비스 FE의 품질관리를 하고 공통 모듈을 개발합니다.
 
