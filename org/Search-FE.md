@@ -42,7 +42,7 @@
 
 ### 필요 역량
 - FE 개발 경험
-- Webpack / Babel
+- Webpack와 같은 번들러와 Babel와 같은 트렌스파일러 이해
 - ES 5+ / Typescript / React.js
 - HTML 4+ / CSS 2.1+ 
 - Git
