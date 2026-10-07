@@ -1,9 +1,12 @@
-# FE News
-
-<img src="./assets/logo.svg" width="150" align="right" style="margin:0 0 0 20px">
+# FE News <img src="./assets/logo.svg" width="100" align="right" style="margin:0 0 0 20px">
 
 FE News는 네이버 FE 엔지니어들이 엄선한 양질의 `FE 및 주요한 기술 소식`들을 큐레이션 해 공유하는 것을 목표로 합니다.
 이를 통해 국내 개발자들에게 지식 공유에 대한 가치 인식과 성장에 도움을 주고자 합니다. :grin:
+
+<p align="center">
+  <img src="./assets/fe-news-intro.gif" width="550" alt="FE News 소개: 매달 엄선된 FE 소식. 링크 &amp; 읽을거리, 튜토리얼, 코드와 도구">
+</p>
+
 
 > [!TIP]
 > 네이버 Front-end 조직이 어떤 일을 하고, 개발자들이 어떻게 성장하고 있는지 궁금하신가요?<br>
@@ -11,6 +14,7 @@ FE News는 네이버 FE 엔지니어들이 엄선한 양질의 `FE 및 주요한
 >
 > 국내 FE/JS 생태계 현황을 확인해 보세요!<br>
 > - [State of FE·JS Korea](https://naver.github.io/fe-news/stateof-fejs/)
+
 
 ## 🚩 발행소식
 
